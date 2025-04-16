@@ -1,0 +1,5002 @@
+[
+  {
+    "year": 2020,
+    "exam": "수능",
+    "subject": "확률과 통계",
+    "question_number": 1,
+    "question": "5개의 공에서 2개를 꺼내는 조합의 수는?",
+    "options": null,
+    "answer": "10",
+    "explanation": "C(5,2)=10"
+  },
+  {
+    "year": 2016,
+    "exam": "수능",
+    "subject": "확률과 통계",
+    "question_number": 2,
+    "question": "동전을 5번 던질 때, 앞면이 3번 나올 확률은?",
+    "options": null,
+    "answer": "10/32",
+    "explanation": "B(5,0.5)에서 P(X=3)=C(5,3)*(1/2)^5=10/32"
+  },
+  {
+    "year": 2021,
+    "exam": "수능",
+    "subject": "확률과 통계",
+    "question_number": 3,
+    "question": "주사위를 두 번 던질 때, 합이 7이 될 확률은?",
+    "options": null,
+    "answer": "1/6",
+    "explanation": "(1,6),(2,5)... 총 6가지 / 36 → 6/36 = 1/6"
+  },
+  {
+    "year": 2020,
+    "exam": "6월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 4,
+    "question": "동전을 5번 던질 때, 앞면이 3번 나올 확률은?",
+    "options": null,
+    "answer": "10/32",
+    "explanation": "B(5,0.5)에서 P(X=3)=C(5,3)*(1/2)^5=10/32"
+  },
+  {
+    "year": 2010,
+    "exam": "6월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 5,
+    "question": "서로 다른 숫자 카드 5장 중 3장을 뽑아 나열할 때, '2'가 반드시 포함되도록 하는 경우의 수는?",
+    "options": null,
+    "answer": "36",
+    "explanation": "'2'를 포함한 2장 선택: C(4,2)=6, 나열: 3!=6 → 총 6×6=36가지"
+  },
+  {
+    "year": 2010,
+    "exam": "9월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 6,
+    "question": "어떤 반의 학생 10명 중 3명을 무작위로 뽑을 때, 특정 학생 A가 포함될 확률은?",
+    "options": null,
+    "answer": "3/10",
+    "explanation": "A가 포함된 조합: C(9,2)=36, 전체 조합: C(10,3)=120 → 36/120=3/10"
+  },
+  {
+    "year": 2015,
+    "exam": "9월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 7,
+    "question": "두 개의 동전을 동시에 던질 때, 적어도 한 개가 앞면일 확률은?",
+    "options": null,
+    "answer": "3/4",
+    "explanation": "전체 경우의 수 4, 적어도 앞면 하나: 3가지 → 3/4"
+  },
+  {
+    "year": 2020,
+    "exam": "수능",
+    "subject": "확률과 통계",
+    "question_number": 8,
+    "question": "A, B 두 사건이 있을 때, P(A)=0.4, P(B)=0.5, P(A∩B)=0.2일 때, P(A∪B)는?",
+    "options": null,
+    "answer": "0.7",
+    "explanation": "P(A∪B)=P(A)+P(B)-P(A∩B)=0.4+0.5-0.2=0.7"
+  },
+  {
+    "year": 2011,
+    "exam": "6월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 9,
+    "question": "어떤 반의 학생 10명 중 3명을 무작위로 뽑을 때, 특정 학생 A가 포함될 확률은?",
+    "options": null,
+    "answer": "3/10",
+    "explanation": "A가 포함된 조합: C(9,2)=36, 전체 조합: C(10,3)=120 → 36/120=3/10"
+  },
+  {
+    "year": 2025,
+    "exam": "수능",
+    "subject": "확률과 통계",
+    "question_number": 10,
+    "question": "어떤 반의 학생 10명 중 3명을 무작위로 뽑을 때, 특정 학생 A가 포함될 확률은?",
+    "options": null,
+    "answer": "3/10",
+    "explanation": "A가 포함된 조합: C(9,2)=36, 전체 조합: C(10,3)=120 → 36/120=3/10"
+  },
+  {
+    "year": 2022,
+    "exam": "6월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 11,
+    "question": "확률변수 X가 1,2,3 값을 가질 확률이 각각 0.2, 0.5, 0.3일 때, 기댓값 E(X)는?",
+    "options": null,
+    "answer": "2.1",
+    "explanation": "E(X)=1×0.2 + 2×0.5 + 3×0.3 = 2.1"
+  },
+  {
+    "year": 2011,
+    "exam": "9월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 12,
+    "question": "동전을 5번 던질 때, 앞면이 3번 나올 확률은?",
+    "options": null,
+    "answer": "10/32",
+    "explanation": "B(5,0.5)에서 P(X=3)=C(5,3)*(1/2)^5=10/32"
+  },
+  {
+    "year": 2016,
+    "exam": "수능",
+    "subject": "확률과 통계",
+    "question_number": 13,
+    "question": "두 개의 동전을 동시에 던질 때, 적어도 한 개가 앞면일 확률은?",
+    "options": null,
+    "answer": "3/4",
+    "explanation": "전체 경우의 수 4, 적어도 앞면 하나: 3가지 → 3/4"
+  },
+  {
+    "year": 2022,
+    "exam": "9월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 14,
+    "question": "서로 다른 숫자 카드 5장 중 3장을 뽑아 나열할 때, '2'가 반드시 포함되도록 하는 경우의 수는?",
+    "options": null,
+    "answer": "36",
+    "explanation": "'2'를 포함한 2장 선택: C(4,2)=6, 나열: 3!=6 → 총 6×6=36가지"
+  },
+  {
+    "year": 2018,
+    "exam": "수능",
+    "subject": "확률과 통계",
+    "question_number": 15,
+    "question": "주사위를 두 번 던질 때, 합이 7이 될 확률은?",
+    "options": null,
+    "answer": "1/6",
+    "explanation": "(1,6),(2,5)... 총 6가지 / 36 → 6/36 = 1/6"
+  },
+  {
+    "year": 2010,
+    "exam": "수능",
+    "subject": "확률과 통계",
+    "question_number": 16,
+    "question": "어떤 반의 학생 10명 중 3명을 무작위로 뽑을 때, 특정 학생 A가 포함될 확률은?",
+    "options": null,
+    "answer": "3/10",
+    "explanation": "A가 포함된 조합: C(9,2)=36, 전체 조합: C(10,3)=120 → 36/120=3/10"
+  },
+  {
+    "year": 2025,
+    "exam": "9월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 17,
+    "question": "5개의 공에서 2개를 꺼내는 조합의 수는?",
+    "options": null,
+    "answer": "10",
+    "explanation": "C(5,2)=10"
+  },
+  {
+    "year": 2024,
+    "exam": "6월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 18,
+    "question": "주사위를 두 번 던질 때, 합이 7이 될 확률은?",
+    "options": null,
+    "answer": "1/6",
+    "explanation": "(1,6),(2,5)... 총 6가지 / 36 → 6/36 = 1/6"
+  },
+  {
+    "year": 2016,
+    "exam": "9월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 19,
+    "question": "확률변수 X가 1,2,3 값을 가질 확률이 각각 0.2, 0.5, 0.3일 때, 기댓값 E(X)는?",
+    "options": null,
+    "answer": "2.1",
+    "explanation": "E(X)=1×0.2 + 2×0.5 + 3×0.3 = 2.1"
+  },
+  {
+    "year": 2010,
+    "exam": "수능",
+    "subject": "확률과 통계",
+    "question_number": 20,
+    "question": "두 개의 동전을 동시에 던질 때, 적어도 한 개가 앞면일 확률은?",
+    "options": null,
+    "answer": "3/4",
+    "explanation": "전체 경우의 수 4, 적어도 앞면 하나: 3가지 → 3/4"
+  },
+  {
+    "year": 2013,
+    "exam": "6월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 21,
+    "question": "A, B 두 사건이 있을 때, P(A)=0.4, P(B)=0.5, P(A∩B)=0.2일 때, P(A∪B)는?",
+    "options": null,
+    "answer": "0.7",
+    "explanation": "P(A∪B)=P(A)+P(B)-P(A∩B)=0.4+0.5-0.2=0.7"
+  },
+  {
+    "year": 2018,
+    "exam": "6월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 22,
+    "question": "서로 다른 숫자 카드 5장 중 3장을 뽑아 나열할 때, '2'가 반드시 포함되도록 하는 경우의 수는?",
+    "options": null,
+    "answer": "36",
+    "explanation": "'2'를 포함한 2장 선택: C(4,2)=6, 나열: 3!=6 → 총 6×6=36가지"
+  },
+  {
+    "year": 2011,
+    "exam": "수능",
+    "subject": "확률과 통계",
+    "question_number": 23,
+    "question": "동전을 5번 던질 때, 앞면이 3번 나올 확률은?",
+    "options": null,
+    "answer": "10/32",
+    "explanation": "B(5,0.5)에서 P(X=3)=C(5,3)*(1/2)^5=10/32"
+  },
+  {
+    "year": 2022,
+    "exam": "9월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 24,
+    "question": "5개의 공에서 2개를 꺼내는 조합의 수는?",
+    "options": null,
+    "answer": "10",
+    "explanation": "C(5,2)=10"
+  },
+  {
+    "year": 2021,
+    "exam": "6월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 25,
+    "question": "서로 다른 숫자 카드 5장 중 3장을 뽑아 나열할 때, '2'가 반드시 포함되도록 하는 경우의 수는?",
+    "options": null,
+    "answer": "36",
+    "explanation": "'2'를 포함한 2장 선택: C(4,2)=6, 나열: 3!=6 → 총 6×6=36가지"
+  },
+  {
+    "year": 2019,
+    "exam": "9월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 26,
+    "question": "동전을 5번 던질 때, 앞면이 3번 나올 확률은?",
+    "options": null,
+    "answer": "10/32",
+    "explanation": "B(5,0.5)에서 P(X=3)=C(5,3)*(1/2)^5=10/32"
+  },
+  {
+    "year": 2016,
+    "exam": "6월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 27,
+    "question": "확률변수 X가 1,2,3 값을 가질 확률이 각각 0.2, 0.5, 0.3일 때, 기댓값 E(X)는?",
+    "options": null,
+    "answer": "2.1",
+    "explanation": "E(X)=1×0.2 + 2×0.5 + 3×0.3 = 2.1"
+  },
+  {
+    "year": 2013,
+    "exam": "6월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 28,
+    "question": "A, B 두 사건이 있을 때, P(A)=0.4, P(B)=0.5, P(A∩B)=0.2일 때, P(A∪B)는?",
+    "options": null,
+    "answer": "0.7",
+    "explanation": "P(A∪B)=P(A)+P(B)-P(A∩B)=0.4+0.5-0.2=0.7"
+  },
+  {
+    "year": 2014,
+    "exam": "수능",
+    "subject": "확률과 통계",
+    "question_number": 29,
+    "question": "주사위를 두 번 던질 때, 합이 7이 될 확률은?",
+    "options": null,
+    "answer": "1/6",
+    "explanation": "(1,6),(2,5)... 총 6가지 / 36 → 6/36 = 1/6"
+  },
+  {
+    "year": 2020,
+    "exam": "6월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 30,
+    "question": "서로 다른 숫자 카드 5장 중 3장을 뽑아 나열할 때, '2'가 반드시 포함되도록 하는 경우의 수는?",
+    "options": null,
+    "answer": "36",
+    "explanation": "'2'를 포함한 2장 선택: C(4,2)=6, 나열: 3!=6 → 총 6×6=36가지"
+  },
+  {
+    "year": 2017,
+    "exam": "6월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 31,
+    "question": "두 개의 동전을 동시에 던질 때, 적어도 한 개가 앞면일 확률은?",
+    "options": null,
+    "answer": "3/4",
+    "explanation": "전체 경우의 수 4, 적어도 앞면 하나: 3가지 → 3/4"
+  },
+  {
+    "year": 2023,
+    "exam": "수능",
+    "subject": "확률과 통계",
+    "question_number": 32,
+    "question": "두 개의 동전을 동시에 던질 때, 적어도 한 개가 앞면일 확률은?",
+    "options": null,
+    "answer": "3/4",
+    "explanation": "전체 경우의 수 4, 적어도 앞면 하나: 3가지 → 3/4"
+  },
+  {
+    "year": 2015,
+    "exam": "6월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 33,
+    "question": "서로 다른 숫자 카드 5장 중 3장을 뽑아 나열할 때, '2'가 반드시 포함되도록 하는 경우의 수는?",
+    "options": null,
+    "answer": "36",
+    "explanation": "'2'를 포함한 2장 선택: C(4,2)=6, 나열: 3!=6 → 총 6×6=36가지"
+  },
+  {
+    "year": 2013,
+    "exam": "9월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 34,
+    "question": "확률변수 X가 1,2,3 값을 가질 확률이 각각 0.2, 0.5, 0.3일 때, 기댓값 E(X)는?",
+    "options": null,
+    "answer": "2.1",
+    "explanation": "E(X)=1×0.2 + 2×0.5 + 3×0.3 = 2.1"
+  },
+  {
+    "year": 2015,
+    "exam": "6월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 35,
+    "question": "주사위를 두 번 던질 때, 합이 7이 될 확률은?",
+    "options": null,
+    "answer": "1/6",
+    "explanation": "(1,6),(2,5)... 총 6가지 / 36 → 6/36 = 1/6"
+  },
+  {
+    "year": 2011,
+    "exam": "수능",
+    "subject": "확률과 통계",
+    "question_number": 36,
+    "question": "5개의 공에서 2개를 꺼내는 조합의 수는?",
+    "options": null,
+    "answer": "10",
+    "explanation": "C(5,2)=10"
+  },
+  {
+    "year": 2025,
+    "exam": "9월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 37,
+    "question": "5개의 공에서 2개를 꺼내는 조합의 수는?",
+    "options": null,
+    "answer": "10",
+    "explanation": "C(5,2)=10"
+  },
+  {
+    "year": 2017,
+    "exam": "9월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 38,
+    "question": "5개의 공에서 2개를 꺼내는 조합의 수는?",
+    "options": null,
+    "answer": "10",
+    "explanation": "C(5,2)=10"
+  },
+  {
+    "year": 2019,
+    "exam": "수능",
+    "subject": "확률과 통계",
+    "question_number": 39,
+    "question": "어떤 반의 학생 10명 중 3명을 무작위로 뽑을 때, 특정 학생 A가 포함될 확률은?",
+    "options": null,
+    "answer": "3/10",
+    "explanation": "A가 포함된 조합: C(9,2)=36, 전체 조합: C(10,3)=120 → 36/120=3/10"
+  },
+  {
+    "year": 2024,
+    "exam": "6월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 40,
+    "question": "어떤 반의 학생 10명 중 3명을 무작위로 뽑을 때, 특정 학생 A가 포함될 확률은?",
+    "options": null,
+    "answer": "3/10",
+    "explanation": "A가 포함된 조합: C(9,2)=36, 전체 조합: C(10,3)=120 → 36/120=3/10"
+  },
+  {
+    "year": 2021,
+    "exam": "수능",
+    "subject": "확률과 통계",
+    "question_number": 41,
+    "question": "어떤 반의 학생 10명 중 3명을 무작위로 뽑을 때, 특정 학생 A가 포함될 확률은?",
+    "options": null,
+    "answer": "3/10",
+    "explanation": "A가 포함된 조합: C(9,2)=36, 전체 조합: C(10,3)=120 → 36/120=3/10"
+  },
+  {
+    "year": 2024,
+    "exam": "6월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 42,
+    "question": "두 개의 동전을 동시에 던질 때, 적어도 한 개가 앞면일 확률은?",
+    "options": null,
+    "answer": "3/4",
+    "explanation": "전체 경우의 수 4, 적어도 앞면 하나: 3가지 → 3/4"
+  },
+  {
+    "year": 2010,
+    "exam": "6월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 43,
+    "question": "A, B 두 사건이 있을 때, P(A)=0.4, P(B)=0.5, P(A∩B)=0.2일 때, P(A∪B)는?",
+    "options": null,
+    "answer": "0.7",
+    "explanation": "P(A∪B)=P(A)+P(B)-P(A∩B)=0.4+0.5-0.2=0.7"
+  },
+  {
+    "year": 2015,
+    "exam": "수능",
+    "subject": "확률과 통계",
+    "question_number": 44,
+    "question": "동전을 5번 던질 때, 앞면이 3번 나올 확률은?",
+    "options": null,
+    "answer": "10/32",
+    "explanation": "B(5,0.5)에서 P(X=3)=C(5,3)*(1/2)^5=10/32"
+  },
+  {
+    "year": 2014,
+    "exam": "9월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 45,
+    "question": "확률변수 X가 1,2,3 값을 가질 확률이 각각 0.2, 0.5, 0.3일 때, 기댓값 E(X)는?",
+    "options": null,
+    "answer": "2.1",
+    "explanation": "E(X)=1×0.2 + 2×0.5 + 3×0.3 = 2.1"
+  },
+  {
+    "year": 2015,
+    "exam": "9월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 46,
+    "question": "어떤 반의 학생 10명 중 3명을 무작위로 뽑을 때, 특정 학생 A가 포함될 확률은?",
+    "options": null,
+    "answer": "3/10",
+    "explanation": "A가 포함된 조합: C(9,2)=36, 전체 조합: C(10,3)=120 → 36/120=3/10"
+  },
+  {
+    "year": 2022,
+    "exam": "6월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 47,
+    "question": "확률변수 X가 1,2,3 값을 가질 확률이 각각 0.2, 0.5, 0.3일 때, 기댓값 E(X)는?",
+    "options": null,
+    "answer": "2.1",
+    "explanation": "E(X)=1×0.2 + 2×0.5 + 3×0.3 = 2.1"
+  },
+  {
+    "year": 2025,
+    "exam": "수능",
+    "subject": "확률과 통계",
+    "question_number": 48,
+    "question": "주사위를 두 번 던질 때, 합이 7이 될 확률은?",
+    "options": null,
+    "answer": "1/6",
+    "explanation": "(1,6),(2,5)... 총 6가지 / 36 → 6/36 = 1/6"
+  },
+  {
+    "year": 2010,
+    "exam": "9월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 49,
+    "question": "주사위를 두 번 던질 때, 합이 7이 될 확률은?",
+    "options": null,
+    "answer": "1/6",
+    "explanation": "(1,6),(2,5)... 총 6가지 / 36 → 6/36 = 1/6"
+  },
+  {
+    "year": 2021,
+    "exam": "수능",
+    "subject": "확률과 통계",
+    "question_number": 50,
+    "question": "서로 다른 숫자 카드 5장 중 3장을 뽑아 나열할 때, '2'가 반드시 포함되도록 하는 경우의 수는?",
+    "options": null,
+    "answer": "36",
+    "explanation": "'2'를 포함한 2장 선택: C(4,2)=6, 나열: 3!=6 → 총 6×6=36가지"
+  },
+  {
+    "year": 2019,
+    "exam": "수능",
+    "subject": "확률과 통계",
+    "question_number": 51,
+    "question": "동전을 5번 던질 때, 앞면이 3번 나올 확률은?",
+    "options": null,
+    "answer": "10/32",
+    "explanation": "B(5,0.5)에서 P(X=3)=C(5,3)*(1/2)^5=10/32"
+  },
+  {
+    "year": 2012,
+    "exam": "6월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 52,
+    "question": "확률변수 X가 1,2,3 값을 가질 확률이 각각 0.2, 0.5, 0.3일 때, 기댓값 E(X)는?",
+    "options": null,
+    "answer": "2.1",
+    "explanation": "E(X)=1×0.2 + 2×0.5 + 3×0.3 = 2.1"
+  },
+  {
+    "year": 2023,
+    "exam": "수능",
+    "subject": "확률과 통계",
+    "question_number": 53,
+    "question": "두 개의 동전을 동시에 던질 때, 적어도 한 개가 앞면일 확률은?",
+    "options": null,
+    "answer": "3/4",
+    "explanation": "전체 경우의 수 4, 적어도 앞면 하나: 3가지 → 3/4"
+  },
+  {
+    "year": 2010,
+    "exam": "9월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 54,
+    "question": "A, B 두 사건이 있을 때, P(A)=0.4, P(B)=0.5, P(A∩B)=0.2일 때, P(A∪B)는?",
+    "options": null,
+    "answer": "0.7",
+    "explanation": "P(A∪B)=P(A)+P(B)-P(A∩B)=0.4+0.5-0.2=0.7"
+  },
+  {
+    "year": 2023,
+    "exam": "9월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 55,
+    "question": "확률변수 X가 1,2,3 값을 가질 확률이 각각 0.2, 0.5, 0.3일 때, 기댓값 E(X)는?",
+    "options": null,
+    "answer": "2.1",
+    "explanation": "E(X)=1×0.2 + 2×0.5 + 3×0.3 = 2.1"
+  },
+  {
+    "year": 2020,
+    "exam": "수능",
+    "subject": "확률과 통계",
+    "question_number": 56,
+    "question": "동전을 5번 던질 때, 앞면이 3번 나올 확률은?",
+    "options": null,
+    "answer": "10/32",
+    "explanation": "B(5,0.5)에서 P(X=3)=C(5,3)*(1/2)^5=10/32"
+  },
+  {
+    "year": 2024,
+    "exam": "6월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 57,
+    "question": "5개의 공에서 2개를 꺼내는 조합의 수는?",
+    "options": null,
+    "answer": "10",
+    "explanation": "C(5,2)=10"
+  },
+  {
+    "year": 2010,
+    "exam": "수능",
+    "subject": "확률과 통계",
+    "question_number": 58,
+    "question": "A, B 두 사건이 있을 때, P(A)=0.4, P(B)=0.5, P(A∩B)=0.2일 때, P(A∪B)는?",
+    "options": null,
+    "answer": "0.7",
+    "explanation": "P(A∪B)=P(A)+P(B)-P(A∩B)=0.4+0.5-0.2=0.7"
+  },
+  {
+    "year": 2017,
+    "exam": "6월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 59,
+    "question": "두 개의 동전을 동시에 던질 때, 적어도 한 개가 앞면일 확률은?",
+    "options": null,
+    "answer": "3/4",
+    "explanation": "전체 경우의 수 4, 적어도 앞면 하나: 3가지 → 3/4"
+  },
+  {
+    "year": 2014,
+    "exam": "수능",
+    "subject": "확률과 통계",
+    "question_number": 60,
+    "question": "주사위를 두 번 던질 때, 합이 7이 될 확률은?",
+    "options": null,
+    "answer": "1/6",
+    "explanation": "(1,6),(2,5)... 총 6가지 / 36 → 6/36 = 1/6"
+  },
+  {
+    "year": 2020,
+    "exam": "수능",
+    "subject": "확률과 통계",
+    "question_number": 61,
+    "question": "동전을 5번 던질 때, 앞면이 3번 나올 확률은?",
+    "options": null,
+    "answer": "10/32",
+    "explanation": "B(5,0.5)에서 P(X=3)=C(5,3)*(1/2)^5=10/32"
+  },
+  {
+    "year": 2015,
+    "exam": "수능",
+    "subject": "확률과 통계",
+    "question_number": 62,
+    "question": "5개의 공에서 2개를 꺼내는 조합의 수는?",
+    "options": null,
+    "answer": "10",
+    "explanation": "C(5,2)=10"
+  },
+  {
+    "year": 2015,
+    "exam": "6월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 63,
+    "question": "확률변수 X가 1,2,3 값을 가질 확률이 각각 0.2, 0.5, 0.3일 때, 기댓값 E(X)는?",
+    "options": null,
+    "answer": "2.1",
+    "explanation": "E(X)=1×0.2 + 2×0.5 + 3×0.3 = 2.1"
+  },
+  {
+    "year": 2023,
+    "exam": "9월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 64,
+    "question": "확률변수 X가 1,2,3 값을 가질 확률이 각각 0.2, 0.5, 0.3일 때, 기댓값 E(X)는?",
+    "options": null,
+    "answer": "2.1",
+    "explanation": "E(X)=1×0.2 + 2×0.5 + 3×0.3 = 2.1"
+  },
+  {
+    "year": 2025,
+    "exam": "수능",
+    "subject": "확률과 통계",
+    "question_number": 65,
+    "question": "A, B 두 사건이 있을 때, P(A)=0.4, P(B)=0.5, P(A∩B)=0.2일 때, P(A∪B)는?",
+    "options": null,
+    "answer": "0.7",
+    "explanation": "P(A∪B)=P(A)+P(B)-P(A∩B)=0.4+0.5-0.2=0.7"
+  },
+  {
+    "year": 2015,
+    "exam": "수능",
+    "subject": "확률과 통계",
+    "question_number": 66,
+    "question": "5개의 공에서 2개를 꺼내는 조합의 수는?",
+    "options": null,
+    "answer": "10",
+    "explanation": "C(5,2)=10"
+  },
+  {
+    "year": 2018,
+    "exam": "9월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 67,
+    "question": "동전을 5번 던질 때, 앞면이 3번 나올 확률은?",
+    "options": null,
+    "answer": "10/32",
+    "explanation": "B(5,0.5)에서 P(X=3)=C(5,3)*(1/2)^5=10/32"
+  },
+  {
+    "year": 2025,
+    "exam": "9월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 68,
+    "question": "두 개의 동전을 동시에 던질 때, 적어도 한 개가 앞면일 확률은?",
+    "options": null,
+    "answer": "3/4",
+    "explanation": "전체 경우의 수 4, 적어도 앞면 하나: 3가지 → 3/4"
+  },
+  {
+    "year": 2017,
+    "exam": "6월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 69,
+    "question": "두 개의 동전을 동시에 던질 때, 적어도 한 개가 앞면일 확률은?",
+    "options": null,
+    "answer": "3/4",
+    "explanation": "전체 경우의 수 4, 적어도 앞면 하나: 3가지 → 3/4"
+  },
+  {
+    "year": 2012,
+    "exam": "9월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 70,
+    "question": "동전을 5번 던질 때, 앞면이 3번 나올 확률은?",
+    "options": null,
+    "answer": "10/32",
+    "explanation": "B(5,0.5)에서 P(X=3)=C(5,3)*(1/2)^5=10/32"
+  },
+  {
+    "year": 2020,
+    "exam": "6월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 71,
+    "question": "동전을 5번 던질 때, 앞면이 3번 나올 확률은?",
+    "options": null,
+    "answer": "10/32",
+    "explanation": "B(5,0.5)에서 P(X=3)=C(5,3)*(1/2)^5=10/32"
+  },
+  {
+    "year": 2017,
+    "exam": "9월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 72,
+    "question": "어떤 반의 학생 10명 중 3명을 무작위로 뽑을 때, 특정 학생 A가 포함될 확률은?",
+    "options": null,
+    "answer": "3/10",
+    "explanation": "A가 포함된 조합: C(9,2)=36, 전체 조합: C(10,3)=120 → 36/120=3/10"
+  },
+  {
+    "year": 2020,
+    "exam": "6월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 73,
+    "question": "A, B 두 사건이 있을 때, P(A)=0.4, P(B)=0.5, P(A∩B)=0.2일 때, P(A∪B)는?",
+    "options": null,
+    "answer": "0.7",
+    "explanation": "P(A∪B)=P(A)+P(B)-P(A∩B)=0.4+0.5-0.2=0.7"
+  },
+  {
+    "year": 2013,
+    "exam": "6월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 74,
+    "question": "5개의 공에서 2개를 꺼내는 조합의 수는?",
+    "options": null,
+    "answer": "10",
+    "explanation": "C(5,2)=10"
+  },
+  {
+    "year": 2011,
+    "exam": "수능",
+    "subject": "확률과 통계",
+    "question_number": 75,
+    "question": "A, B 두 사건이 있을 때, P(A)=0.4, P(B)=0.5, P(A∩B)=0.2일 때, P(A∪B)는?",
+    "options": null,
+    "answer": "0.7",
+    "explanation": "P(A∪B)=P(A)+P(B)-P(A∩B)=0.4+0.5-0.2=0.7"
+  },
+  {
+    "year": 2019,
+    "exam": "6월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 76,
+    "question": "동전을 5번 던질 때, 앞면이 3번 나올 확률은?",
+    "options": null,
+    "answer": "10/32",
+    "explanation": "B(5,0.5)에서 P(X=3)=C(5,3)*(1/2)^5=10/32"
+  },
+  {
+    "year": 2015,
+    "exam": "수능",
+    "subject": "확률과 통계",
+    "question_number": 77,
+    "question": "확률변수 X가 1,2,3 값을 가질 확률이 각각 0.2, 0.5, 0.3일 때, 기댓값 E(X)는?",
+    "options": null,
+    "answer": "2.1",
+    "explanation": "E(X)=1×0.2 + 2×0.5 + 3×0.3 = 2.1"
+  },
+  {
+    "year": 2017,
+    "exam": "9월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 78,
+    "question": "어떤 반의 학생 10명 중 3명을 무작위로 뽑을 때, 특정 학생 A가 포함될 확률은?",
+    "options": null,
+    "answer": "3/10",
+    "explanation": "A가 포함된 조합: C(9,2)=36, 전체 조합: C(10,3)=120 → 36/120=3/10"
+  },
+  {
+    "year": 2018,
+    "exam": "6월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 79,
+    "question": "두 개의 동전을 동시에 던질 때, 적어도 한 개가 앞면일 확률은?",
+    "options": null,
+    "answer": "3/4",
+    "explanation": "전체 경우의 수 4, 적어도 앞면 하나: 3가지 → 3/4"
+  },
+  {
+    "year": 2012,
+    "exam": "6월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 80,
+    "question": "동전을 5번 던질 때, 앞면이 3번 나올 확률은?",
+    "options": null,
+    "answer": "10/32",
+    "explanation": "B(5,0.5)에서 P(X=3)=C(5,3)*(1/2)^5=10/32"
+  },
+  {
+    "year": 2019,
+    "exam": "6월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 81,
+    "question": "A, B 두 사건이 있을 때, P(A)=0.4, P(B)=0.5, P(A∩B)=0.2일 때, P(A∪B)는?",
+    "options": null,
+    "answer": "0.7",
+    "explanation": "P(A∪B)=P(A)+P(B)-P(A∩B)=0.4+0.5-0.2=0.7"
+  },
+  {
+    "year": 2010,
+    "exam": "수능",
+    "subject": "확률과 통계",
+    "question_number": 82,
+    "question": "확률변수 X가 1,2,3 값을 가질 확률이 각각 0.2, 0.5, 0.3일 때, 기댓값 E(X)는?",
+    "options": null,
+    "answer": "2.1",
+    "explanation": "E(X)=1×0.2 + 2×0.5 + 3×0.3 = 2.1"
+  },
+  {
+    "year": 2019,
+    "exam": "9월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 83,
+    "question": "어떤 반의 학생 10명 중 3명을 무작위로 뽑을 때, 특정 학생 A가 포함될 확률은?",
+    "options": null,
+    "answer": "3/10",
+    "explanation": "A가 포함된 조합: C(9,2)=36, 전체 조합: C(10,3)=120 → 36/120=3/10"
+  },
+  {
+    "year": 2024,
+    "exam": "9월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 84,
+    "question": "두 개의 동전을 동시에 던질 때, 적어도 한 개가 앞면일 확률은?",
+    "options": null,
+    "answer": "3/4",
+    "explanation": "전체 경우의 수 4, 적어도 앞면 하나: 3가지 → 3/4"
+  },
+  {
+    "year": 2023,
+    "exam": "수능",
+    "subject": "확률과 통계",
+    "question_number": 85,
+    "question": "서로 다른 숫자 카드 5장 중 3장을 뽑아 나열할 때, '2'가 반드시 포함되도록 하는 경우의 수는?",
+    "options": null,
+    "answer": "36",
+    "explanation": "'2'를 포함한 2장 선택: C(4,2)=6, 나열: 3!=6 → 총 6×6=36가지"
+  },
+  {
+    "year": 2016,
+    "exam": "수능",
+    "subject": "확률과 통계",
+    "question_number": 86,
+    "question": "A, B 두 사건이 있을 때, P(A)=0.4, P(B)=0.5, P(A∩B)=0.2일 때, P(A∪B)는?",
+    "options": null,
+    "answer": "0.7",
+    "explanation": "P(A∪B)=P(A)+P(B)-P(A∩B)=0.4+0.5-0.2=0.7"
+  },
+  {
+    "year": 2025,
+    "exam": "수능",
+    "subject": "확률과 통계",
+    "question_number": 87,
+    "question": "동전을 5번 던질 때, 앞면이 3번 나올 확률은?",
+    "options": null,
+    "answer": "10/32",
+    "explanation": "B(5,0.5)에서 P(X=3)=C(5,3)*(1/2)^5=10/32"
+  },
+  {
+    "year": 2017,
+    "exam": "6월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 88,
+    "question": "어떤 반의 학생 10명 중 3명을 무작위로 뽑을 때, 특정 학생 A가 포함될 확률은?",
+    "options": null,
+    "answer": "3/10",
+    "explanation": "A가 포함된 조합: C(9,2)=36, 전체 조합: C(10,3)=120 → 36/120=3/10"
+  },
+  {
+    "year": 2016,
+    "exam": "9월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 89,
+    "question": "서로 다른 숫자 카드 5장 중 3장을 뽑아 나열할 때, '2'가 반드시 포함되도록 하는 경우의 수는?",
+    "options": null,
+    "answer": "36",
+    "explanation": "'2'를 포함한 2장 선택: C(4,2)=6, 나열: 3!=6 → 총 6×6=36가지"
+  },
+  {
+    "year": 2011,
+    "exam": "9월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 90,
+    "question": "동전을 5번 던질 때, 앞면이 3번 나올 확률은?",
+    "options": null,
+    "answer": "10/32",
+    "explanation": "B(5,0.5)에서 P(X=3)=C(5,3)*(1/2)^5=10/32"
+  },
+  {
+    "year": 2010,
+    "exam": "6월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 91,
+    "question": "두 개의 동전을 동시에 던질 때, 적어도 한 개가 앞면일 확률은?",
+    "options": null,
+    "answer": "3/4",
+    "explanation": "전체 경우의 수 4, 적어도 앞면 하나: 3가지 → 3/4"
+  },
+  {
+    "year": 2015,
+    "exam": "9월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 92,
+    "question": "확률변수 X가 1,2,3 값을 가질 확률이 각각 0.2, 0.5, 0.3일 때, 기댓값 E(X)는?",
+    "options": null,
+    "answer": "2.1",
+    "explanation": "E(X)=1×0.2 + 2×0.5 + 3×0.3 = 2.1"
+  },
+  {
+    "year": 2010,
+    "exam": "9월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 93,
+    "question": "확률변수 X가 1,2,3 값을 가질 확률이 각각 0.2, 0.5, 0.3일 때, 기댓값 E(X)는?",
+    "options": null,
+    "answer": "2.1",
+    "explanation": "E(X)=1×0.2 + 2×0.5 + 3×0.3 = 2.1"
+  },
+  {
+    "year": 2015,
+    "exam": "6월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 94,
+    "question": "확률변수 X가 1,2,3 값을 가질 확률이 각각 0.2, 0.5, 0.3일 때, 기댓값 E(X)는?",
+    "options": null,
+    "answer": "2.1",
+    "explanation": "E(X)=1×0.2 + 2×0.5 + 3×0.3 = 2.1"
+  },
+  {
+    "year": 2020,
+    "exam": "6월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 95,
+    "question": "서로 다른 숫자 카드 5장 중 3장을 뽑아 나열할 때, '2'가 반드시 포함되도록 하는 경우의 수는?",
+    "options": null,
+    "answer": "36",
+    "explanation": "'2'를 포함한 2장 선택: C(4,2)=6, 나열: 3!=6 → 총 6×6=36가지"
+  },
+  {
+    "year": 2010,
+    "exam": "6월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 96,
+    "question": "서로 다른 숫자 카드 5장 중 3장을 뽑아 나열할 때, '2'가 반드시 포함되도록 하는 경우의 수는?",
+    "options": null,
+    "answer": "36",
+    "explanation": "'2'를 포함한 2장 선택: C(4,2)=6, 나열: 3!=6 → 총 6×6=36가지"
+  },
+  {
+    "year": 2021,
+    "exam": "수능",
+    "subject": "확률과 통계",
+    "question_number": 97,
+    "question": "동전을 5번 던질 때, 앞면이 3번 나올 확률은?",
+    "options": null,
+    "answer": "10/32",
+    "explanation": "B(5,0.5)에서 P(X=3)=C(5,3)*(1/2)^5=10/32"
+  },
+  {
+    "year": 2013,
+    "exam": "6월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 98,
+    "question": "두 개의 동전을 동시에 던질 때, 적어도 한 개가 앞면일 확률은?",
+    "options": null,
+    "answer": "3/4",
+    "explanation": "전체 경우의 수 4, 적어도 앞면 하나: 3가지 → 3/4"
+  },
+  {
+    "year": 2012,
+    "exam": "9월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 99,
+    "question": "확률변수 X가 1,2,3 값을 가질 확률이 각각 0.2, 0.5, 0.3일 때, 기댓값 E(X)는?",
+    "options": null,
+    "answer": "2.1",
+    "explanation": "E(X)=1×0.2 + 2×0.5 + 3×0.3 = 2.1"
+  },
+  {
+    "year": 2017,
+    "exam": "9월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 100,
+    "question": "동전을 5번 던질 때, 앞면이 3번 나올 확률은?",
+    "options": null,
+    "answer": "10/32",
+    "explanation": "B(5,0.5)에서 P(X=3)=C(5,3)*(1/2)^5=10/32"
+  },
+  {
+    "year": 2019,
+    "exam": "수능",
+    "subject": "확률과 통계",
+    "question_number": 101,
+    "question": "어떤 반의 학생 10명 중 3명을 무작위로 뽑을 때, 특정 학생 A가 포함될 확률은?",
+    "options": null,
+    "answer": "3/10",
+    "explanation": "A가 포함된 조합: C(9,2)=36, 전체 조합: C(10,3)=120 → 36/120=3/10"
+  },
+  {
+    "year": 2019,
+    "exam": "9월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 102,
+    "question": "서로 다른 숫자 카드 5장 중 3장을 뽑아 나열할 때, '2'가 반드시 포함되도록 하는 경우의 수는?",
+    "options": null,
+    "answer": "36",
+    "explanation": "'2'를 포함한 2장 선택: C(4,2)=6, 나열: 3!=6 → 총 6×6=36가지"
+  },
+  {
+    "year": 2022,
+    "exam": "수능",
+    "subject": "확률과 통계",
+    "question_number": 103,
+    "question": "5개의 공에서 2개를 꺼내는 조합의 수는?",
+    "options": null,
+    "answer": "10",
+    "explanation": "C(5,2)=10"
+  },
+  {
+    "year": 2010,
+    "exam": "수능",
+    "subject": "확률과 통계",
+    "question_number": 104,
+    "question": "어떤 반의 학생 10명 중 3명을 무작위로 뽑을 때, 특정 학생 A가 포함될 확률은?",
+    "options": null,
+    "answer": "3/10",
+    "explanation": "A가 포함된 조합: C(9,2)=36, 전체 조합: C(10,3)=120 → 36/120=3/10"
+  },
+  {
+    "year": 2012,
+    "exam": "수능",
+    "subject": "확률과 통계",
+    "question_number": 105,
+    "question": "두 개의 동전을 동시에 던질 때, 적어도 한 개가 앞면일 확률은?",
+    "options": null,
+    "answer": "3/4",
+    "explanation": "전체 경우의 수 4, 적어도 앞면 하나: 3가지 → 3/4"
+  },
+  {
+    "year": 2025,
+    "exam": "6월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 106,
+    "question": "서로 다른 숫자 카드 5장 중 3장을 뽑아 나열할 때, '2'가 반드시 포함되도록 하는 경우의 수는?",
+    "options": null,
+    "answer": "36",
+    "explanation": "'2'를 포함한 2장 선택: C(4,2)=6, 나열: 3!=6 → 총 6×6=36가지"
+  },
+  {
+    "year": 2013,
+    "exam": "수능",
+    "subject": "확률과 통계",
+    "question_number": 107,
+    "question": "확률변수 X가 1,2,3 값을 가질 확률이 각각 0.2, 0.5, 0.3일 때, 기댓값 E(X)는?",
+    "options": null,
+    "answer": "2.1",
+    "explanation": "E(X)=1×0.2 + 2×0.5 + 3×0.3 = 2.1"
+  },
+  {
+    "year": 2023,
+    "exam": "9월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 108,
+    "question": "5개의 공에서 2개를 꺼내는 조합의 수는?",
+    "options": null,
+    "answer": "10",
+    "explanation": "C(5,2)=10"
+  },
+  {
+    "year": 2013,
+    "exam": "수능",
+    "subject": "확률과 통계",
+    "question_number": 109,
+    "question": "동전을 5번 던질 때, 앞면이 3번 나올 확률은?",
+    "options": null,
+    "answer": "10/32",
+    "explanation": "B(5,0.5)에서 P(X=3)=C(5,3)*(1/2)^5=10/32"
+  },
+  {
+    "year": 2013,
+    "exam": "수능",
+    "subject": "확률과 통계",
+    "question_number": 110,
+    "question": "어떤 반의 학생 10명 중 3명을 무작위로 뽑을 때, 특정 학생 A가 포함될 확률은?",
+    "options": null,
+    "answer": "3/10",
+    "explanation": "A가 포함된 조합: C(9,2)=36, 전체 조합: C(10,3)=120 → 36/120=3/10"
+  },
+  {
+    "year": 2013,
+    "exam": "수능",
+    "subject": "확률과 통계",
+    "question_number": 111,
+    "question": "A, B 두 사건이 있을 때, P(A)=0.4, P(B)=0.5, P(A∩B)=0.2일 때, P(A∪B)는?",
+    "options": null,
+    "answer": "0.7",
+    "explanation": "P(A∪B)=P(A)+P(B)-P(A∩B)=0.4+0.5-0.2=0.7"
+  },
+  {
+    "year": 2024,
+    "exam": "6월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 112,
+    "question": "확률변수 X가 1,2,3 값을 가질 확률이 각각 0.2, 0.5, 0.3일 때, 기댓값 E(X)는?",
+    "options": null,
+    "answer": "2.1",
+    "explanation": "E(X)=1×0.2 + 2×0.5 + 3×0.3 = 2.1"
+  },
+  {
+    "year": 2010,
+    "exam": "9월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 113,
+    "question": "동전을 5번 던질 때, 앞면이 3번 나올 확률은?",
+    "options": null,
+    "answer": "10/32",
+    "explanation": "B(5,0.5)에서 P(X=3)=C(5,3)*(1/2)^5=10/32"
+  },
+  {
+    "year": 2018,
+    "exam": "6월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 114,
+    "question": "두 개의 동전을 동시에 던질 때, 적어도 한 개가 앞면일 확률은?",
+    "options": null,
+    "answer": "3/4",
+    "explanation": "전체 경우의 수 4, 적어도 앞면 하나: 3가지 → 3/4"
+  },
+  {
+    "year": 2014,
+    "exam": "9월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 115,
+    "question": "A, B 두 사건이 있을 때, P(A)=0.4, P(B)=0.5, P(A∩B)=0.2일 때, P(A∪B)는?",
+    "options": null,
+    "answer": "0.7",
+    "explanation": "P(A∪B)=P(A)+P(B)-P(A∩B)=0.4+0.5-0.2=0.7"
+  },
+  {
+    "year": 2011,
+    "exam": "9월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 116,
+    "question": "서로 다른 숫자 카드 5장 중 3장을 뽑아 나열할 때, '2'가 반드시 포함되도록 하는 경우의 수는?",
+    "options": null,
+    "answer": "36",
+    "explanation": "'2'를 포함한 2장 선택: C(4,2)=6, 나열: 3!=6 → 총 6×6=36가지"
+  },
+  {
+    "year": 2010,
+    "exam": "9월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 117,
+    "question": "서로 다른 숫자 카드 5장 중 3장을 뽑아 나열할 때, '2'가 반드시 포함되도록 하는 경우의 수는?",
+    "options": null,
+    "answer": "36",
+    "explanation": "'2'를 포함한 2장 선택: C(4,2)=6, 나열: 3!=6 → 총 6×6=36가지"
+  },
+  {
+    "year": 2022,
+    "exam": "수능",
+    "subject": "확률과 통계",
+    "question_number": 118,
+    "question": "5개의 공에서 2개를 꺼내는 조합의 수는?",
+    "options": null,
+    "answer": "10",
+    "explanation": "C(5,2)=10"
+  },
+  {
+    "year": 2025,
+    "exam": "6월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 119,
+    "question": "A, B 두 사건이 있을 때, P(A)=0.4, P(B)=0.5, P(A∩B)=0.2일 때, P(A∪B)는?",
+    "options": null,
+    "answer": "0.7",
+    "explanation": "P(A∪B)=P(A)+P(B)-P(A∩B)=0.4+0.5-0.2=0.7"
+  },
+  {
+    "year": 2015,
+    "exam": "수능",
+    "subject": "확률과 통계",
+    "question_number": 120,
+    "question": "두 개의 동전을 동시에 던질 때, 적어도 한 개가 앞면일 확률은?",
+    "options": null,
+    "answer": "3/4",
+    "explanation": "전체 경우의 수 4, 적어도 앞면 하나: 3가지 → 3/4"
+  },
+  {
+    "year": 2011,
+    "exam": "9월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 121,
+    "question": "확률변수 X가 1,2,3 값을 가질 확률이 각각 0.2, 0.5, 0.3일 때, 기댓값 E(X)는?",
+    "options": null,
+    "answer": "2.1",
+    "explanation": "E(X)=1×0.2 + 2×0.5 + 3×0.3 = 2.1"
+  },
+  {
+    "year": 2022,
+    "exam": "6월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 122,
+    "question": "주사위를 두 번 던질 때, 합이 7이 될 확률은?",
+    "options": null,
+    "answer": "1/6",
+    "explanation": "(1,6),(2,5)... 총 6가지 / 36 → 6/36 = 1/6"
+  },
+  {
+    "year": 2025,
+    "exam": "수능",
+    "subject": "확률과 통계",
+    "question_number": 123,
+    "question": "서로 다른 숫자 카드 5장 중 3장을 뽑아 나열할 때, '2'가 반드시 포함되도록 하는 경우의 수는?",
+    "options": null,
+    "answer": "36",
+    "explanation": "'2'를 포함한 2장 선택: C(4,2)=6, 나열: 3!=6 → 총 6×6=36가지"
+  },
+  {
+    "year": 2021,
+    "exam": "6월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 124,
+    "question": "어떤 반의 학생 10명 중 3명을 무작위로 뽑을 때, 특정 학생 A가 포함될 확률은?",
+    "options": null,
+    "answer": "3/10",
+    "explanation": "A가 포함된 조합: C(9,2)=36, 전체 조합: C(10,3)=120 → 36/120=3/10"
+  },
+  {
+    "year": 2024,
+    "exam": "6월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 125,
+    "question": "주사위를 두 번 던질 때, 합이 7이 될 확률은?",
+    "options": null,
+    "answer": "1/6",
+    "explanation": "(1,6),(2,5)... 총 6가지 / 36 → 6/36 = 1/6"
+  },
+  {
+    "year": 2016,
+    "exam": "9월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 126,
+    "question": "5개의 공에서 2개를 꺼내는 조합의 수는?",
+    "options": null,
+    "answer": "10",
+    "explanation": "C(5,2)=10"
+  },
+  {
+    "year": 2019,
+    "exam": "6월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 127,
+    "question": "동전을 5번 던질 때, 앞면이 3번 나올 확률은?",
+    "options": null,
+    "answer": "10/32",
+    "explanation": "B(5,0.5)에서 P(X=3)=C(5,3)*(1/2)^5=10/32"
+  },
+  {
+    "year": 2020,
+    "exam": "수능",
+    "subject": "확률과 통계",
+    "question_number": 128,
+    "question": "서로 다른 숫자 카드 5장 중 3장을 뽑아 나열할 때, '2'가 반드시 포함되도록 하는 경우의 수는?",
+    "options": null,
+    "answer": "36",
+    "explanation": "'2'를 포함한 2장 선택: C(4,2)=6, 나열: 3!=6 → 총 6×6=36가지"
+  },
+  {
+    "year": 2012,
+    "exam": "6월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 129,
+    "question": "동전을 5번 던질 때, 앞면이 3번 나올 확률은?",
+    "options": null,
+    "answer": "10/32",
+    "explanation": "B(5,0.5)에서 P(X=3)=C(5,3)*(1/2)^5=10/32"
+  },
+  {
+    "year": 2022,
+    "exam": "9월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 130,
+    "question": "5개의 공에서 2개를 꺼내는 조합의 수는?",
+    "options": null,
+    "answer": "10",
+    "explanation": "C(5,2)=10"
+  },
+  {
+    "year": 2012,
+    "exam": "6월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 131,
+    "question": "어떤 반의 학생 10명 중 3명을 무작위로 뽑을 때, 특정 학생 A가 포함될 확률은?",
+    "options": null,
+    "answer": "3/10",
+    "explanation": "A가 포함된 조합: C(9,2)=36, 전체 조합: C(10,3)=120 → 36/120=3/10"
+  },
+  {
+    "year": 2021,
+    "exam": "9월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 132,
+    "question": "어떤 반의 학생 10명 중 3명을 무작위로 뽑을 때, 특정 학생 A가 포함될 확률은?",
+    "options": null,
+    "answer": "3/10",
+    "explanation": "A가 포함된 조합: C(9,2)=36, 전체 조합: C(10,3)=120 → 36/120=3/10"
+  },
+  {
+    "year": 2025,
+    "exam": "수능",
+    "subject": "확률과 통계",
+    "question_number": 133,
+    "question": "서로 다른 숫자 카드 5장 중 3장을 뽑아 나열할 때, '2'가 반드시 포함되도록 하는 경우의 수는?",
+    "options": null,
+    "answer": "36",
+    "explanation": "'2'를 포함한 2장 선택: C(4,2)=6, 나열: 3!=6 → 총 6×6=36가지"
+  },
+  {
+    "year": 2024,
+    "exam": "6월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 134,
+    "question": "두 개의 동전을 동시에 던질 때, 적어도 한 개가 앞면일 확률은?",
+    "options": null,
+    "answer": "3/4",
+    "explanation": "전체 경우의 수 4, 적어도 앞면 하나: 3가지 → 3/4"
+  },
+  {
+    "year": 2011,
+    "exam": "수능",
+    "subject": "확률과 통계",
+    "question_number": 135,
+    "question": "확률변수 X가 1,2,3 값을 가질 확률이 각각 0.2, 0.5, 0.3일 때, 기댓값 E(X)는?",
+    "options": null,
+    "answer": "2.1",
+    "explanation": "E(X)=1×0.2 + 2×0.5 + 3×0.3 = 2.1"
+  },
+  {
+    "year": 2016,
+    "exam": "수능",
+    "subject": "확률과 통계",
+    "question_number": 136,
+    "question": "동전을 5번 던질 때, 앞면이 3번 나올 확률은?",
+    "options": null,
+    "answer": "10/32",
+    "explanation": "B(5,0.5)에서 P(X=3)=C(5,3)*(1/2)^5=10/32"
+  },
+  {
+    "year": 2012,
+    "exam": "9월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 137,
+    "question": "주사위를 두 번 던질 때, 합이 7이 될 확률은?",
+    "options": null,
+    "answer": "1/6",
+    "explanation": "(1,6),(2,5)... 총 6가지 / 36 → 6/36 = 1/6"
+  },
+  {
+    "year": 2022,
+    "exam": "수능",
+    "subject": "확률과 통계",
+    "question_number": 138,
+    "question": "서로 다른 숫자 카드 5장 중 3장을 뽑아 나열할 때, '2'가 반드시 포함되도록 하는 경우의 수는?",
+    "options": null,
+    "answer": "36",
+    "explanation": "'2'를 포함한 2장 선택: C(4,2)=6, 나열: 3!=6 → 총 6×6=36가지"
+  },
+  {
+    "year": 2019,
+    "exam": "9월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 139,
+    "question": "5개의 공에서 2개를 꺼내는 조합의 수는?",
+    "options": null,
+    "answer": "10",
+    "explanation": "C(5,2)=10"
+  },
+  {
+    "year": 2025,
+    "exam": "수능",
+    "subject": "확률과 통계",
+    "question_number": 140,
+    "question": "A, B 두 사건이 있을 때, P(A)=0.4, P(B)=0.5, P(A∩B)=0.2일 때, P(A∪B)는?",
+    "options": null,
+    "answer": "0.7",
+    "explanation": "P(A∪B)=P(A)+P(B)-P(A∩B)=0.4+0.5-0.2=0.7"
+  },
+  {
+    "year": 2016,
+    "exam": "9월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 141,
+    "question": "5개의 공에서 2개를 꺼내는 조합의 수는?",
+    "options": null,
+    "answer": "10",
+    "explanation": "C(5,2)=10"
+  },
+  {
+    "year": 2021,
+    "exam": "6월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 142,
+    "question": "A, B 두 사건이 있을 때, P(A)=0.4, P(B)=0.5, P(A∩B)=0.2일 때, P(A∪B)는?",
+    "options": null,
+    "answer": "0.7",
+    "explanation": "P(A∪B)=P(A)+P(B)-P(A∩B)=0.4+0.5-0.2=0.7"
+  },
+  {
+    "year": 2019,
+    "exam": "6월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 143,
+    "question": "서로 다른 숫자 카드 5장 중 3장을 뽑아 나열할 때, '2'가 반드시 포함되도록 하는 경우의 수는?",
+    "options": null,
+    "answer": "36",
+    "explanation": "'2'를 포함한 2장 선택: C(4,2)=6, 나열: 3!=6 → 총 6×6=36가지"
+  },
+  {
+    "year": 2025,
+    "exam": "6월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 144,
+    "question": "확률변수 X가 1,2,3 값을 가질 확률이 각각 0.2, 0.5, 0.3일 때, 기댓값 E(X)는?",
+    "options": null,
+    "answer": "2.1",
+    "explanation": "E(X)=1×0.2 + 2×0.5 + 3×0.3 = 2.1"
+  },
+  {
+    "year": 2011,
+    "exam": "9월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 145,
+    "question": "두 개의 동전을 동시에 던질 때, 적어도 한 개가 앞면일 확률은?",
+    "options": null,
+    "answer": "3/4",
+    "explanation": "전체 경우의 수 4, 적어도 앞면 하나: 3가지 → 3/4"
+  },
+  {
+    "year": 2018,
+    "exam": "6월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 146,
+    "question": "동전을 5번 던질 때, 앞면이 3번 나올 확률은?",
+    "options": null,
+    "answer": "10/32",
+    "explanation": "B(5,0.5)에서 P(X=3)=C(5,3)*(1/2)^5=10/32"
+  },
+  {
+    "year": 2015,
+    "exam": "6월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 147,
+    "question": "주사위를 두 번 던질 때, 합이 7이 될 확률은?",
+    "options": null,
+    "answer": "1/6",
+    "explanation": "(1,6),(2,5)... 총 6가지 / 36 → 6/36 = 1/6"
+  },
+  {
+    "year": 2015,
+    "exam": "6월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 148,
+    "question": "동전을 5번 던질 때, 앞면이 3번 나올 확률은?",
+    "options": null,
+    "answer": "10/32",
+    "explanation": "B(5,0.5)에서 P(X=3)=C(5,3)*(1/2)^5=10/32"
+  },
+  {
+    "year": 2012,
+    "exam": "수능",
+    "subject": "확률과 통계",
+    "question_number": 149,
+    "question": "주사위를 두 번 던질 때, 합이 7이 될 확률은?",
+    "options": null,
+    "answer": "1/6",
+    "explanation": "(1,6),(2,5)... 총 6가지 / 36 → 6/36 = 1/6"
+  },
+  {
+    "year": 2015,
+    "exam": "9월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 150,
+    "question": "주사위를 두 번 던질 때, 합이 7이 될 확률은?",
+    "options": null,
+    "answer": "1/6",
+    "explanation": "(1,6),(2,5)... 총 6가지 / 36 → 6/36 = 1/6"
+  },
+  {
+    "year": 2024,
+    "exam": "9월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 151,
+    "question": "두 개의 동전을 동시에 던질 때, 적어도 한 개가 앞면일 확률은?",
+    "options": null,
+    "answer": "3/4",
+    "explanation": "전체 경우의 수 4, 적어도 앞면 하나: 3가지 → 3/4"
+  },
+  {
+    "year": 2019,
+    "exam": "9월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 152,
+    "question": "주사위를 두 번 던질 때, 합이 7이 될 확률은?",
+    "options": null,
+    "answer": "1/6",
+    "explanation": "(1,6),(2,5)... 총 6가지 / 36 → 6/36 = 1/6"
+  },
+  {
+    "year": 2017,
+    "exam": "수능",
+    "subject": "확률과 통계",
+    "question_number": 153,
+    "question": "어떤 반의 학생 10명 중 3명을 무작위로 뽑을 때, 특정 학생 A가 포함될 확률은?",
+    "options": null,
+    "answer": "3/10",
+    "explanation": "A가 포함된 조합: C(9,2)=36, 전체 조합: C(10,3)=120 → 36/120=3/10"
+  },
+  {
+    "year": 2014,
+    "exam": "6월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 154,
+    "question": "동전을 5번 던질 때, 앞면이 3번 나올 확률은?",
+    "options": null,
+    "answer": "10/32",
+    "explanation": "B(5,0.5)에서 P(X=3)=C(5,3)*(1/2)^5=10/32"
+  },
+  {
+    "year": 2015,
+    "exam": "수능",
+    "subject": "확률과 통계",
+    "question_number": 155,
+    "question": "두 개의 동전을 동시에 던질 때, 적어도 한 개가 앞면일 확률은?",
+    "options": null,
+    "answer": "3/4",
+    "explanation": "전체 경우의 수 4, 적어도 앞면 하나: 3가지 → 3/4"
+  },
+  {
+    "year": 2011,
+    "exam": "9월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 156,
+    "question": "A, B 두 사건이 있을 때, P(A)=0.4, P(B)=0.5, P(A∩B)=0.2일 때, P(A∪B)는?",
+    "options": null,
+    "answer": "0.7",
+    "explanation": "P(A∪B)=P(A)+P(B)-P(A∩B)=0.4+0.5-0.2=0.7"
+  },
+  {
+    "year": 2019,
+    "exam": "9월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 157,
+    "question": "동전을 5번 던질 때, 앞면이 3번 나올 확률은?",
+    "options": null,
+    "answer": "10/32",
+    "explanation": "B(5,0.5)에서 P(X=3)=C(5,3)*(1/2)^5=10/32"
+  },
+  {
+    "year": 2013,
+    "exam": "6월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 158,
+    "question": "주사위를 두 번 던질 때, 합이 7이 될 확률은?",
+    "options": null,
+    "answer": "1/6",
+    "explanation": "(1,6),(2,5)... 총 6가지 / 36 → 6/36 = 1/6"
+  },
+  {
+    "year": 2016,
+    "exam": "6월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 159,
+    "question": "동전을 5번 던질 때, 앞면이 3번 나올 확률은?",
+    "options": null,
+    "answer": "10/32",
+    "explanation": "B(5,0.5)에서 P(X=3)=C(5,3)*(1/2)^5=10/32"
+  },
+  {
+    "year": 2013,
+    "exam": "수능",
+    "subject": "확률과 통계",
+    "question_number": 160,
+    "question": "확률변수 X가 1,2,3 값을 가질 확률이 각각 0.2, 0.5, 0.3일 때, 기댓값 E(X)는?",
+    "options": null,
+    "answer": "2.1",
+    "explanation": "E(X)=1×0.2 + 2×0.5 + 3×0.3 = 2.1"
+  },
+  {
+    "year": 2015,
+    "exam": "수능",
+    "subject": "확률과 통계",
+    "question_number": 161,
+    "question": "동전을 5번 던질 때, 앞면이 3번 나올 확률은?",
+    "options": null,
+    "answer": "10/32",
+    "explanation": "B(5,0.5)에서 P(X=3)=C(5,3)*(1/2)^5=10/32"
+  },
+  {
+    "year": 2024,
+    "exam": "수능",
+    "subject": "확률과 통계",
+    "question_number": 162,
+    "question": "5개의 공에서 2개를 꺼내는 조합의 수는?",
+    "options": null,
+    "answer": "10",
+    "explanation": "C(5,2)=10"
+  },
+  {
+    "year": 2017,
+    "exam": "수능",
+    "subject": "확률과 통계",
+    "question_number": 163,
+    "question": "어떤 반의 학생 10명 중 3명을 무작위로 뽑을 때, 특정 학생 A가 포함될 확률은?",
+    "options": null,
+    "answer": "3/10",
+    "explanation": "A가 포함된 조합: C(9,2)=36, 전체 조합: C(10,3)=120 → 36/120=3/10"
+  },
+  {
+    "year": 2019,
+    "exam": "6월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 164,
+    "question": "5개의 공에서 2개를 꺼내는 조합의 수는?",
+    "options": null,
+    "answer": "10",
+    "explanation": "C(5,2)=10"
+  },
+  {
+    "year": 2015,
+    "exam": "수능",
+    "subject": "확률과 통계",
+    "question_number": 165,
+    "question": "확률변수 X가 1,2,3 값을 가질 확률이 각각 0.2, 0.5, 0.3일 때, 기댓값 E(X)는?",
+    "options": null,
+    "answer": "2.1",
+    "explanation": "E(X)=1×0.2 + 2×0.5 + 3×0.3 = 2.1"
+  },
+  {
+    "year": 2014,
+    "exam": "9월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 166,
+    "question": "동전을 5번 던질 때, 앞면이 3번 나올 확률은?",
+    "options": null,
+    "answer": "10/32",
+    "explanation": "B(5,0.5)에서 P(X=3)=C(5,3)*(1/2)^5=10/32"
+  },
+  {
+    "year": 2017,
+    "exam": "6월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 167,
+    "question": "동전을 5번 던질 때, 앞면이 3번 나올 확률은?",
+    "options": null,
+    "answer": "10/32",
+    "explanation": "B(5,0.5)에서 P(X=3)=C(5,3)*(1/2)^5=10/32"
+  },
+  {
+    "year": 2023,
+    "exam": "6월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 168,
+    "question": "동전을 5번 던질 때, 앞면이 3번 나올 확률은?",
+    "options": null,
+    "answer": "10/32",
+    "explanation": "B(5,0.5)에서 P(X=3)=C(5,3)*(1/2)^5=10/32"
+  },
+  {
+    "year": 2016,
+    "exam": "수능",
+    "subject": "확률과 통계",
+    "question_number": 169,
+    "question": "동전을 5번 던질 때, 앞면이 3번 나올 확률은?",
+    "options": null,
+    "answer": "10/32",
+    "explanation": "B(5,0.5)에서 P(X=3)=C(5,3)*(1/2)^5=10/32"
+  },
+  {
+    "year": 2020,
+    "exam": "6월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 170,
+    "question": "주사위를 두 번 던질 때, 합이 7이 될 확률은?",
+    "options": null,
+    "answer": "1/6",
+    "explanation": "(1,6),(2,5)... 총 6가지 / 36 → 6/36 = 1/6"
+  },
+  {
+    "year": 2018,
+    "exam": "9월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 171,
+    "question": "확률변수 X가 1,2,3 값을 가질 확률이 각각 0.2, 0.5, 0.3일 때, 기댓값 E(X)는?",
+    "options": null,
+    "answer": "2.1",
+    "explanation": "E(X)=1×0.2 + 2×0.5 + 3×0.3 = 2.1"
+  },
+  {
+    "year": 2010,
+    "exam": "9월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 172,
+    "question": "동전을 5번 던질 때, 앞면이 3번 나올 확률은?",
+    "options": null,
+    "answer": "10/32",
+    "explanation": "B(5,0.5)에서 P(X=3)=C(5,3)*(1/2)^5=10/32"
+  },
+  {
+    "year": 2022,
+    "exam": "수능",
+    "subject": "확률과 통계",
+    "question_number": 173,
+    "question": "동전을 5번 던질 때, 앞면이 3번 나올 확률은?",
+    "options": null,
+    "answer": "10/32",
+    "explanation": "B(5,0.5)에서 P(X=3)=C(5,3)*(1/2)^5=10/32"
+  },
+  {
+    "year": 2022,
+    "exam": "수능",
+    "subject": "확률과 통계",
+    "question_number": 174,
+    "question": "5개의 공에서 2개를 꺼내는 조합의 수는?",
+    "options": null,
+    "answer": "10",
+    "explanation": "C(5,2)=10"
+  },
+  {
+    "year": 2015,
+    "exam": "수능",
+    "subject": "확률과 통계",
+    "question_number": 175,
+    "question": "동전을 5번 던질 때, 앞면이 3번 나올 확률은?",
+    "options": null,
+    "answer": "10/32",
+    "explanation": "B(5,0.5)에서 P(X=3)=C(5,3)*(1/2)^5=10/32"
+  },
+  {
+    "year": 2019,
+    "exam": "수능",
+    "subject": "확률과 통계",
+    "question_number": 176,
+    "question": "어떤 반의 학생 10명 중 3명을 무작위로 뽑을 때, 특정 학생 A가 포함될 확률은?",
+    "options": null,
+    "answer": "3/10",
+    "explanation": "A가 포함된 조합: C(9,2)=36, 전체 조합: C(10,3)=120 → 36/120=3/10"
+  },
+  {
+    "year": 2025,
+    "exam": "6월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 177,
+    "question": "어떤 반의 학생 10명 중 3명을 무작위로 뽑을 때, 특정 학생 A가 포함될 확률은?",
+    "options": null,
+    "answer": "3/10",
+    "explanation": "A가 포함된 조합: C(9,2)=36, 전체 조합: C(10,3)=120 → 36/120=3/10"
+  },
+  {
+    "year": 2017,
+    "exam": "9월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 178,
+    "question": "확률변수 X가 1,2,3 값을 가질 확률이 각각 0.2, 0.5, 0.3일 때, 기댓값 E(X)는?",
+    "options": null,
+    "answer": "2.1",
+    "explanation": "E(X)=1×0.2 + 2×0.5 + 3×0.3 = 2.1"
+  },
+  {
+    "year": 2012,
+    "exam": "9월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 179,
+    "question": "5개의 공에서 2개를 꺼내는 조합의 수는?",
+    "options": null,
+    "answer": "10",
+    "explanation": "C(5,2)=10"
+  },
+  {
+    "year": 2016,
+    "exam": "수능",
+    "subject": "확률과 통계",
+    "question_number": 180,
+    "question": "A, B 두 사건이 있을 때, P(A)=0.4, P(B)=0.5, P(A∩B)=0.2일 때, P(A∪B)는?",
+    "options": null,
+    "answer": "0.7",
+    "explanation": "P(A∪B)=P(A)+P(B)-P(A∩B)=0.4+0.5-0.2=0.7"
+  },
+  {
+    "year": 2015,
+    "exam": "9월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 181,
+    "question": "두 개의 동전을 동시에 던질 때, 적어도 한 개가 앞면일 확률은?",
+    "options": null,
+    "answer": "3/4",
+    "explanation": "전체 경우의 수 4, 적어도 앞면 하나: 3가지 → 3/4"
+  },
+  {
+    "year": 2025,
+    "exam": "6월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 182,
+    "question": "어떤 반의 학생 10명 중 3명을 무작위로 뽑을 때, 특정 학생 A가 포함될 확률은?",
+    "options": null,
+    "answer": "3/10",
+    "explanation": "A가 포함된 조합: C(9,2)=36, 전체 조합: C(10,3)=120 → 36/120=3/10"
+  },
+  {
+    "year": 2022,
+    "exam": "9월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 183,
+    "question": "두 개의 동전을 동시에 던질 때, 적어도 한 개가 앞면일 확률은?",
+    "options": null,
+    "answer": "3/4",
+    "explanation": "전체 경우의 수 4, 적어도 앞면 하나: 3가지 → 3/4"
+  },
+  {
+    "year": 2013,
+    "exam": "수능",
+    "subject": "확률과 통계",
+    "question_number": 184,
+    "question": "서로 다른 숫자 카드 5장 중 3장을 뽑아 나열할 때, '2'가 반드시 포함되도록 하는 경우의 수는?",
+    "options": null,
+    "answer": "36",
+    "explanation": "'2'를 포함한 2장 선택: C(4,2)=6, 나열: 3!=6 → 총 6×6=36가지"
+  },
+  {
+    "year": 2020,
+    "exam": "9월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 185,
+    "question": "주사위를 두 번 던질 때, 합이 7이 될 확률은?",
+    "options": null,
+    "answer": "1/6",
+    "explanation": "(1,6),(2,5)... 총 6가지 / 36 → 6/36 = 1/6"
+  },
+  {
+    "year": 2013,
+    "exam": "수능",
+    "subject": "확률과 통계",
+    "question_number": 186,
+    "question": "어떤 반의 학생 10명 중 3명을 무작위로 뽑을 때, 특정 학생 A가 포함될 확률은?",
+    "options": null,
+    "answer": "3/10",
+    "explanation": "A가 포함된 조합: C(9,2)=36, 전체 조합: C(10,3)=120 → 36/120=3/10"
+  },
+  {
+    "year": 2016,
+    "exam": "9월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 187,
+    "question": "동전을 5번 던질 때, 앞면이 3번 나올 확률은?",
+    "options": null,
+    "answer": "10/32",
+    "explanation": "B(5,0.5)에서 P(X=3)=C(5,3)*(1/2)^5=10/32"
+  },
+  {
+    "year": 2020,
+    "exam": "9월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 188,
+    "question": "A, B 두 사건이 있을 때, P(A)=0.4, P(B)=0.5, P(A∩B)=0.2일 때, P(A∪B)는?",
+    "options": null,
+    "answer": "0.7",
+    "explanation": "P(A∪B)=P(A)+P(B)-P(A∩B)=0.4+0.5-0.2=0.7"
+  },
+  {
+    "year": 2020,
+    "exam": "수능",
+    "subject": "확률과 통계",
+    "question_number": 189,
+    "question": "두 개의 동전을 동시에 던질 때, 적어도 한 개가 앞면일 확률은?",
+    "options": null,
+    "answer": "3/4",
+    "explanation": "전체 경우의 수 4, 적어도 앞면 하나: 3가지 → 3/4"
+  },
+  {
+    "year": 2010,
+    "exam": "6월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 190,
+    "question": "주사위를 두 번 던질 때, 합이 7이 될 확률은?",
+    "options": null,
+    "answer": "1/6",
+    "explanation": "(1,6),(2,5)... 총 6가지 / 36 → 6/36 = 1/6"
+  },
+  {
+    "year": 2014,
+    "exam": "6월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 191,
+    "question": "A, B 두 사건이 있을 때, P(A)=0.4, P(B)=0.5, P(A∩B)=0.2일 때, P(A∪B)는?",
+    "options": null,
+    "answer": "0.7",
+    "explanation": "P(A∪B)=P(A)+P(B)-P(A∩B)=0.4+0.5-0.2=0.7"
+  },
+  {
+    "year": 2017,
+    "exam": "9월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 192,
+    "question": "확률변수 X가 1,2,3 값을 가질 확률이 각각 0.2, 0.5, 0.3일 때, 기댓값 E(X)는?",
+    "options": null,
+    "answer": "2.1",
+    "explanation": "E(X)=1×0.2 + 2×0.5 + 3×0.3 = 2.1"
+  },
+  {
+    "year": 2024,
+    "exam": "수능",
+    "subject": "확률과 통계",
+    "question_number": 193,
+    "question": "확률변수 X가 1,2,3 값을 가질 확률이 각각 0.2, 0.5, 0.3일 때, 기댓값 E(X)는?",
+    "options": null,
+    "answer": "2.1",
+    "explanation": "E(X)=1×0.2 + 2×0.5 + 3×0.3 = 2.1"
+  },
+  {
+    "year": 2012,
+    "exam": "6월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 194,
+    "question": "동전을 5번 던질 때, 앞면이 3번 나올 확률은?",
+    "options": null,
+    "answer": "10/32",
+    "explanation": "B(5,0.5)에서 P(X=3)=C(5,3)*(1/2)^5=10/32"
+  },
+  {
+    "year": 2020,
+    "exam": "6월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 195,
+    "question": "어떤 반의 학생 10명 중 3명을 무작위로 뽑을 때, 특정 학생 A가 포함될 확률은?",
+    "options": null,
+    "answer": "3/10",
+    "explanation": "A가 포함된 조합: C(9,2)=36, 전체 조합: C(10,3)=120 → 36/120=3/10"
+  },
+  {
+    "year": 2020,
+    "exam": "6월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 196,
+    "question": "동전을 5번 던질 때, 앞면이 3번 나올 확률은?",
+    "options": null,
+    "answer": "10/32",
+    "explanation": "B(5,0.5)에서 P(X=3)=C(5,3)*(1/2)^5=10/32"
+  },
+  {
+    "year": 2016,
+    "exam": "수능",
+    "subject": "확률과 통계",
+    "question_number": 197,
+    "question": "동전을 5번 던질 때, 앞면이 3번 나올 확률은?",
+    "options": null,
+    "answer": "10/32",
+    "explanation": "B(5,0.5)에서 P(X=3)=C(5,3)*(1/2)^5=10/32"
+  },
+  {
+    "year": 2010,
+    "exam": "6월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 198,
+    "question": "A, B 두 사건이 있을 때, P(A)=0.4, P(B)=0.5, P(A∩B)=0.2일 때, P(A∪B)는?",
+    "options": null,
+    "answer": "0.7",
+    "explanation": "P(A∪B)=P(A)+P(B)-P(A∩B)=0.4+0.5-0.2=0.7"
+  },
+  {
+    "year": 2022,
+    "exam": "9월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 199,
+    "question": "주사위를 두 번 던질 때, 합이 7이 될 확률은?",
+    "options": null,
+    "answer": "1/6",
+    "explanation": "(1,6),(2,5)... 총 6가지 / 36 → 6/36 = 1/6"
+  },
+  {
+    "year": 2020,
+    "exam": "9월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 200,
+    "question": "동전을 5번 던질 때, 앞면이 3번 나올 확률은?",
+    "options": null,
+    "answer": "10/32",
+    "explanation": "B(5,0.5)에서 P(X=3)=C(5,3)*(1/2)^5=10/32"
+  },
+  {
+    "year": 2014,
+    "exam": "6월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 201,
+    "question": "5개의 공에서 2개를 꺼내는 조합의 수는?",
+    "options": null,
+    "answer": "10",
+    "explanation": "C(5,2)=10"
+  },
+  {
+    "year": 2013,
+    "exam": "9월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 202,
+    "question": "A, B 두 사건이 있을 때, P(A)=0.4, P(B)=0.5, P(A∩B)=0.2일 때, P(A∪B)는?",
+    "options": null,
+    "answer": "0.7",
+    "explanation": "P(A∪B)=P(A)+P(B)-P(A∩B)=0.4+0.5-0.2=0.7"
+  },
+  {
+    "year": 2014,
+    "exam": "6월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 203,
+    "question": "두 개의 동전을 동시에 던질 때, 적어도 한 개가 앞면일 확률은?",
+    "options": null,
+    "answer": "3/4",
+    "explanation": "전체 경우의 수 4, 적어도 앞면 하나: 3가지 → 3/4"
+  },
+  {
+    "year": 2010,
+    "exam": "9월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 204,
+    "question": "두 개의 동전을 동시에 던질 때, 적어도 한 개가 앞면일 확률은?",
+    "options": null,
+    "answer": "3/4",
+    "explanation": "전체 경우의 수 4, 적어도 앞면 하나: 3가지 → 3/4"
+  },
+  {
+    "year": 2016,
+    "exam": "6월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 205,
+    "question": "동전을 5번 던질 때, 앞면이 3번 나올 확률은?",
+    "options": null,
+    "answer": "10/32",
+    "explanation": "B(5,0.5)에서 P(X=3)=C(5,3)*(1/2)^5=10/32"
+  },
+  {
+    "year": 2016,
+    "exam": "9월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 206,
+    "question": "동전을 5번 던질 때, 앞면이 3번 나올 확률은?",
+    "options": null,
+    "answer": "10/32",
+    "explanation": "B(5,0.5)에서 P(X=3)=C(5,3)*(1/2)^5=10/32"
+  },
+  {
+    "year": 2025,
+    "exam": "9월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 207,
+    "question": "어떤 반의 학생 10명 중 3명을 무작위로 뽑을 때, 특정 학생 A가 포함될 확률은?",
+    "options": null,
+    "answer": "3/10",
+    "explanation": "A가 포함된 조합: C(9,2)=36, 전체 조합: C(10,3)=120 → 36/120=3/10"
+  },
+  {
+    "year": 2010,
+    "exam": "수능",
+    "subject": "확률과 통계",
+    "question_number": 208,
+    "question": "어떤 반의 학생 10명 중 3명을 무작위로 뽑을 때, 특정 학생 A가 포함될 확률은?",
+    "options": null,
+    "answer": "3/10",
+    "explanation": "A가 포함된 조합: C(9,2)=36, 전체 조합: C(10,3)=120 → 36/120=3/10"
+  },
+  {
+    "year": 2017,
+    "exam": "9월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 209,
+    "question": "동전을 5번 던질 때, 앞면이 3번 나올 확률은?",
+    "options": null,
+    "answer": "10/32",
+    "explanation": "B(5,0.5)에서 P(X=3)=C(5,3)*(1/2)^5=10/32"
+  },
+  {
+    "year": 2010,
+    "exam": "수능",
+    "subject": "확률과 통계",
+    "question_number": 210,
+    "question": "A, B 두 사건이 있을 때, P(A)=0.4, P(B)=0.5, P(A∩B)=0.2일 때, P(A∪B)는?",
+    "options": null,
+    "answer": "0.7",
+    "explanation": "P(A∪B)=P(A)+P(B)-P(A∩B)=0.4+0.5-0.2=0.7"
+  },
+  {
+    "year": 2015,
+    "exam": "수능",
+    "subject": "확률과 통계",
+    "question_number": 211,
+    "question": "서로 다른 숫자 카드 5장 중 3장을 뽑아 나열할 때, '2'가 반드시 포함되도록 하는 경우의 수는?",
+    "options": null,
+    "answer": "36",
+    "explanation": "'2'를 포함한 2장 선택: C(4,2)=6, 나열: 3!=6 → 총 6×6=36가지"
+  },
+  {
+    "year": 2020,
+    "exam": "6월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 212,
+    "question": "5개의 공에서 2개를 꺼내는 조합의 수는?",
+    "options": null,
+    "answer": "10",
+    "explanation": "C(5,2)=10"
+  },
+  {
+    "year": 2011,
+    "exam": "수능",
+    "subject": "확률과 통계",
+    "question_number": 213,
+    "question": "서로 다른 숫자 카드 5장 중 3장을 뽑아 나열할 때, '2'가 반드시 포함되도록 하는 경우의 수는?",
+    "options": null,
+    "answer": "36",
+    "explanation": "'2'를 포함한 2장 선택: C(4,2)=6, 나열: 3!=6 → 총 6×6=36가지"
+  },
+  {
+    "year": 2017,
+    "exam": "6월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 214,
+    "question": "동전을 5번 던질 때, 앞면이 3번 나올 확률은?",
+    "options": null,
+    "answer": "10/32",
+    "explanation": "B(5,0.5)에서 P(X=3)=C(5,3)*(1/2)^5=10/32"
+  },
+  {
+    "year": 2019,
+    "exam": "수능",
+    "subject": "확률과 통계",
+    "question_number": 215,
+    "question": "A, B 두 사건이 있을 때, P(A)=0.4, P(B)=0.5, P(A∩B)=0.2일 때, P(A∪B)는?",
+    "options": null,
+    "answer": "0.7",
+    "explanation": "P(A∪B)=P(A)+P(B)-P(A∩B)=0.4+0.5-0.2=0.7"
+  },
+  {
+    "year": 2021,
+    "exam": "9월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 216,
+    "question": "두 개의 동전을 동시에 던질 때, 적어도 한 개가 앞면일 확률은?",
+    "options": null,
+    "answer": "3/4",
+    "explanation": "전체 경우의 수 4, 적어도 앞면 하나: 3가지 → 3/4"
+  },
+  {
+    "year": 2024,
+    "exam": "수능",
+    "subject": "확률과 통계",
+    "question_number": 217,
+    "question": "5개의 공에서 2개를 꺼내는 조합의 수는?",
+    "options": null,
+    "answer": "10",
+    "explanation": "C(5,2)=10"
+  },
+  {
+    "year": 2013,
+    "exam": "9월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 218,
+    "question": "두 개의 동전을 동시에 던질 때, 적어도 한 개가 앞면일 확률은?",
+    "options": null,
+    "answer": "3/4",
+    "explanation": "전체 경우의 수 4, 적어도 앞면 하나: 3가지 → 3/4"
+  },
+  {
+    "year": 2012,
+    "exam": "6월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 219,
+    "question": "5개의 공에서 2개를 꺼내는 조합의 수는?",
+    "options": null,
+    "answer": "10",
+    "explanation": "C(5,2)=10"
+  },
+  {
+    "year": 2013,
+    "exam": "6월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 220,
+    "question": "어떤 반의 학생 10명 중 3명을 무작위로 뽑을 때, 특정 학생 A가 포함될 확률은?",
+    "options": null,
+    "answer": "3/10",
+    "explanation": "A가 포함된 조합: C(9,2)=36, 전체 조합: C(10,3)=120 → 36/120=3/10"
+  },
+  {
+    "year": 2023,
+    "exam": "9월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 221,
+    "question": "서로 다른 숫자 카드 5장 중 3장을 뽑아 나열할 때, '2'가 반드시 포함되도록 하는 경우의 수는?",
+    "options": null,
+    "answer": "36",
+    "explanation": "'2'를 포함한 2장 선택: C(4,2)=6, 나열: 3!=6 → 총 6×6=36가지"
+  },
+  {
+    "year": 2024,
+    "exam": "수능",
+    "subject": "확률과 통계",
+    "question_number": 222,
+    "question": "주사위를 두 번 던질 때, 합이 7이 될 확률은?",
+    "options": null,
+    "answer": "1/6",
+    "explanation": "(1,6),(2,5)... 총 6가지 / 36 → 6/36 = 1/6"
+  },
+  {
+    "year": 2021,
+    "exam": "6월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 223,
+    "question": "어떤 반의 학생 10명 중 3명을 무작위로 뽑을 때, 특정 학생 A가 포함될 확률은?",
+    "options": null,
+    "answer": "3/10",
+    "explanation": "A가 포함된 조합: C(9,2)=36, 전체 조합: C(10,3)=120 → 36/120=3/10"
+  },
+  {
+    "year": 2020,
+    "exam": "6월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 224,
+    "question": "서로 다른 숫자 카드 5장 중 3장을 뽑아 나열할 때, '2'가 반드시 포함되도록 하는 경우의 수는?",
+    "options": null,
+    "answer": "36",
+    "explanation": "'2'를 포함한 2장 선택: C(4,2)=6, 나열: 3!=6 → 총 6×6=36가지"
+  },
+  {
+    "year": 2017,
+    "exam": "6월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 225,
+    "question": "확률변수 X가 1,2,3 값을 가질 확률이 각각 0.2, 0.5, 0.3일 때, 기댓값 E(X)는?",
+    "options": null,
+    "answer": "2.1",
+    "explanation": "E(X)=1×0.2 + 2×0.5 + 3×0.3 = 2.1"
+  },
+  {
+    "year": 2021,
+    "exam": "6월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 226,
+    "question": "어떤 반의 학생 10명 중 3명을 무작위로 뽑을 때, 특정 학생 A가 포함될 확률은?",
+    "options": null,
+    "answer": "3/10",
+    "explanation": "A가 포함된 조합: C(9,2)=36, 전체 조합: C(10,3)=120 → 36/120=3/10"
+  },
+  {
+    "year": 2014,
+    "exam": "수능",
+    "subject": "확률과 통계",
+    "question_number": 227,
+    "question": "서로 다른 숫자 카드 5장 중 3장을 뽑아 나열할 때, '2'가 반드시 포함되도록 하는 경우의 수는?",
+    "options": null,
+    "answer": "36",
+    "explanation": "'2'를 포함한 2장 선택: C(4,2)=6, 나열: 3!=6 → 총 6×6=36가지"
+  },
+  {
+    "year": 2013,
+    "exam": "6월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 228,
+    "question": "어떤 반의 학생 10명 중 3명을 무작위로 뽑을 때, 특정 학생 A가 포함될 확률은?",
+    "options": null,
+    "answer": "3/10",
+    "explanation": "A가 포함된 조합: C(9,2)=36, 전체 조합: C(10,3)=120 → 36/120=3/10"
+  },
+  {
+    "year": 2020,
+    "exam": "수능",
+    "subject": "확률과 통계",
+    "question_number": 229,
+    "question": "주사위를 두 번 던질 때, 합이 7이 될 확률은?",
+    "options": null,
+    "answer": "1/6",
+    "explanation": "(1,6),(2,5)... 총 6가지 / 36 → 6/36 = 1/6"
+  },
+  {
+    "year": 2021,
+    "exam": "9월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 230,
+    "question": "5개의 공에서 2개를 꺼내는 조합의 수는?",
+    "options": null,
+    "answer": "10",
+    "explanation": "C(5,2)=10"
+  },
+  {
+    "year": 2017,
+    "exam": "9월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 231,
+    "question": "서로 다른 숫자 카드 5장 중 3장을 뽑아 나열할 때, '2'가 반드시 포함되도록 하는 경우의 수는?",
+    "options": null,
+    "answer": "36",
+    "explanation": "'2'를 포함한 2장 선택: C(4,2)=6, 나열: 3!=6 → 총 6×6=36가지"
+  },
+  {
+    "year": 2022,
+    "exam": "6월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 232,
+    "question": "A, B 두 사건이 있을 때, P(A)=0.4, P(B)=0.5, P(A∩B)=0.2일 때, P(A∪B)는?",
+    "options": null,
+    "answer": "0.7",
+    "explanation": "P(A∪B)=P(A)+P(B)-P(A∩B)=0.4+0.5-0.2=0.7"
+  },
+  {
+    "year": 2012,
+    "exam": "6월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 233,
+    "question": "동전을 5번 던질 때, 앞면이 3번 나올 확률은?",
+    "options": null,
+    "answer": "10/32",
+    "explanation": "B(5,0.5)에서 P(X=3)=C(5,3)*(1/2)^5=10/32"
+  },
+  {
+    "year": 2015,
+    "exam": "6월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 234,
+    "question": "서로 다른 숫자 카드 5장 중 3장을 뽑아 나열할 때, '2'가 반드시 포함되도록 하는 경우의 수는?",
+    "options": null,
+    "answer": "36",
+    "explanation": "'2'를 포함한 2장 선택: C(4,2)=6, 나열: 3!=6 → 총 6×6=36가지"
+  },
+  {
+    "year": 2015,
+    "exam": "수능",
+    "subject": "확률과 통계",
+    "question_number": 235,
+    "question": "서로 다른 숫자 카드 5장 중 3장을 뽑아 나열할 때, '2'가 반드시 포함되도록 하는 경우의 수는?",
+    "options": null,
+    "answer": "36",
+    "explanation": "'2'를 포함한 2장 선택: C(4,2)=6, 나열: 3!=6 → 총 6×6=36가지"
+  },
+  {
+    "year": 2019,
+    "exam": "6월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 236,
+    "question": "동전을 5번 던질 때, 앞면이 3번 나올 확률은?",
+    "options": null,
+    "answer": "10/32",
+    "explanation": "B(5,0.5)에서 P(X=3)=C(5,3)*(1/2)^5=10/32"
+  },
+  {
+    "year": 2025,
+    "exam": "수능",
+    "subject": "확률과 통계",
+    "question_number": 237,
+    "question": "두 개의 동전을 동시에 던질 때, 적어도 한 개가 앞면일 확률은?",
+    "options": null,
+    "answer": "3/4",
+    "explanation": "전체 경우의 수 4, 적어도 앞면 하나: 3가지 → 3/4"
+  },
+  {
+    "year": 2022,
+    "exam": "9월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 238,
+    "question": "주사위를 두 번 던질 때, 합이 7이 될 확률은?",
+    "options": null,
+    "answer": "1/6",
+    "explanation": "(1,6),(2,5)... 총 6가지 / 36 → 6/36 = 1/6"
+  },
+  {
+    "year": 2010,
+    "exam": "6월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 239,
+    "question": "A, B 두 사건이 있을 때, P(A)=0.4, P(B)=0.5, P(A∩B)=0.2일 때, P(A∪B)는?",
+    "options": null,
+    "answer": "0.7",
+    "explanation": "P(A∪B)=P(A)+P(B)-P(A∩B)=0.4+0.5-0.2=0.7"
+  },
+  {
+    "year": 2012,
+    "exam": "9월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 240,
+    "question": "어떤 반의 학생 10명 중 3명을 무작위로 뽑을 때, 특정 학생 A가 포함될 확률은?",
+    "options": null,
+    "answer": "3/10",
+    "explanation": "A가 포함된 조합: C(9,2)=36, 전체 조합: C(10,3)=120 → 36/120=3/10"
+  },
+  {
+    "year": 2023,
+    "exam": "수능",
+    "subject": "확률과 통계",
+    "question_number": 241,
+    "question": "동전을 5번 던질 때, 앞면이 3번 나올 확률은?",
+    "options": null,
+    "answer": "10/32",
+    "explanation": "B(5,0.5)에서 P(X=3)=C(5,3)*(1/2)^5=10/32"
+  },
+  {
+    "year": 2014,
+    "exam": "9월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 242,
+    "question": "서로 다른 숫자 카드 5장 중 3장을 뽑아 나열할 때, '2'가 반드시 포함되도록 하는 경우의 수는?",
+    "options": null,
+    "answer": "36",
+    "explanation": "'2'를 포함한 2장 선택: C(4,2)=6, 나열: 3!=6 → 총 6×6=36가지"
+  },
+  {
+    "year": 2011,
+    "exam": "6월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 243,
+    "question": "서로 다른 숫자 카드 5장 중 3장을 뽑아 나열할 때, '2'가 반드시 포함되도록 하는 경우의 수는?",
+    "options": null,
+    "answer": "36",
+    "explanation": "'2'를 포함한 2장 선택: C(4,2)=6, 나열: 3!=6 → 총 6×6=36가지"
+  },
+  {
+    "year": 2016,
+    "exam": "6월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 244,
+    "question": "주사위를 두 번 던질 때, 합이 7이 될 확률은?",
+    "options": null,
+    "answer": "1/6",
+    "explanation": "(1,6),(2,5)... 총 6가지 / 36 → 6/36 = 1/6"
+  },
+  {
+    "year": 2023,
+    "exam": "9월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 245,
+    "question": "5개의 공에서 2개를 꺼내는 조합의 수는?",
+    "options": null,
+    "answer": "10",
+    "explanation": "C(5,2)=10"
+  },
+  {
+    "year": 2010,
+    "exam": "수능",
+    "subject": "확률과 통계",
+    "question_number": 246,
+    "question": "주사위를 두 번 던질 때, 합이 7이 될 확률은?",
+    "options": null,
+    "answer": "1/6",
+    "explanation": "(1,6),(2,5)... 총 6가지 / 36 → 6/36 = 1/6"
+  },
+  {
+    "year": 2024,
+    "exam": "6월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 247,
+    "question": "서로 다른 숫자 카드 5장 중 3장을 뽑아 나열할 때, '2'가 반드시 포함되도록 하는 경우의 수는?",
+    "options": null,
+    "answer": "36",
+    "explanation": "'2'를 포함한 2장 선택: C(4,2)=6, 나열: 3!=6 → 총 6×6=36가지"
+  },
+  {
+    "year": 2016,
+    "exam": "수능",
+    "subject": "확률과 통계",
+    "question_number": 248,
+    "question": "서로 다른 숫자 카드 5장 중 3장을 뽑아 나열할 때, '2'가 반드시 포함되도록 하는 경우의 수는?",
+    "options": null,
+    "answer": "36",
+    "explanation": "'2'를 포함한 2장 선택: C(4,2)=6, 나열: 3!=6 → 총 6×6=36가지"
+  },
+  {
+    "year": 2024,
+    "exam": "6월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 249,
+    "question": "동전을 5번 던질 때, 앞면이 3번 나올 확률은?",
+    "options": null,
+    "answer": "10/32",
+    "explanation": "B(5,0.5)에서 P(X=3)=C(5,3)*(1/2)^5=10/32"
+  },
+  {
+    "year": 2012,
+    "exam": "수능",
+    "subject": "확률과 통계",
+    "question_number": 250,
+    "question": "A, B 두 사건이 있을 때, P(A)=0.4, P(B)=0.5, P(A∩B)=0.2일 때, P(A∪B)는?",
+    "options": null,
+    "answer": "0.7",
+    "explanation": "P(A∪B)=P(A)+P(B)-P(A∩B)=0.4+0.5-0.2=0.7"
+  },
+  {
+    "year": 2020,
+    "exam": "9월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 251,
+    "question": "확률변수 X가 1,2,3 값을 가질 확률이 각각 0.2, 0.5, 0.3일 때, 기댓값 E(X)는?",
+    "options": null,
+    "answer": "2.1",
+    "explanation": "E(X)=1×0.2 + 2×0.5 + 3×0.3 = 2.1"
+  },
+  {
+    "year": 2023,
+    "exam": "수능",
+    "subject": "확률과 통계",
+    "question_number": 252,
+    "question": "주사위를 두 번 던질 때, 합이 7이 될 확률은?",
+    "options": null,
+    "answer": "1/6",
+    "explanation": "(1,6),(2,5)... 총 6가지 / 36 → 6/36 = 1/6"
+  },
+  {
+    "year": 2020,
+    "exam": "9월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 253,
+    "question": "어떤 반의 학생 10명 중 3명을 무작위로 뽑을 때, 특정 학생 A가 포함될 확률은?",
+    "options": null,
+    "answer": "3/10",
+    "explanation": "A가 포함된 조합: C(9,2)=36, 전체 조합: C(10,3)=120 → 36/120=3/10"
+  },
+  {
+    "year": 2015,
+    "exam": "6월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 254,
+    "question": "서로 다른 숫자 카드 5장 중 3장을 뽑아 나열할 때, '2'가 반드시 포함되도록 하는 경우의 수는?",
+    "options": null,
+    "answer": "36",
+    "explanation": "'2'를 포함한 2장 선택: C(4,2)=6, 나열: 3!=6 → 총 6×6=36가지"
+  },
+  {
+    "year": 2025,
+    "exam": "수능",
+    "subject": "확률과 통계",
+    "question_number": 255,
+    "question": "동전을 5번 던질 때, 앞면이 3번 나올 확률은?",
+    "options": null,
+    "answer": "10/32",
+    "explanation": "B(5,0.5)에서 P(X=3)=C(5,3)*(1/2)^5=10/32"
+  },
+  {
+    "year": 2019,
+    "exam": "9월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 256,
+    "question": "서로 다른 숫자 카드 5장 중 3장을 뽑아 나열할 때, '2'가 반드시 포함되도록 하는 경우의 수는?",
+    "options": null,
+    "answer": "36",
+    "explanation": "'2'를 포함한 2장 선택: C(4,2)=6, 나열: 3!=6 → 총 6×6=36가지"
+  },
+  {
+    "year": 2013,
+    "exam": "6월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 257,
+    "question": "주사위를 두 번 던질 때, 합이 7이 될 확률은?",
+    "options": null,
+    "answer": "1/6",
+    "explanation": "(1,6),(2,5)... 총 6가지 / 36 → 6/36 = 1/6"
+  },
+  {
+    "year": 2021,
+    "exam": "9월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 258,
+    "question": "주사위를 두 번 던질 때, 합이 7이 될 확률은?",
+    "options": null,
+    "answer": "1/6",
+    "explanation": "(1,6),(2,5)... 총 6가지 / 36 → 6/36 = 1/6"
+  },
+  {
+    "year": 2015,
+    "exam": "수능",
+    "subject": "확률과 통계",
+    "question_number": 259,
+    "question": "어떤 반의 학생 10명 중 3명을 무작위로 뽑을 때, 특정 학생 A가 포함될 확률은?",
+    "options": null,
+    "answer": "3/10",
+    "explanation": "A가 포함된 조합: C(9,2)=36, 전체 조합: C(10,3)=120 → 36/120=3/10"
+  },
+  {
+    "year": 2013,
+    "exam": "수능",
+    "subject": "확률과 통계",
+    "question_number": 260,
+    "question": "동전을 5번 던질 때, 앞면이 3번 나올 확률은?",
+    "options": null,
+    "answer": "10/32",
+    "explanation": "B(5,0.5)에서 P(X=3)=C(5,3)*(1/2)^5=10/32"
+  },
+  {
+    "year": 2024,
+    "exam": "9월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 261,
+    "question": "어떤 반의 학생 10명 중 3명을 무작위로 뽑을 때, 특정 학생 A가 포함될 확률은?",
+    "options": null,
+    "answer": "3/10",
+    "explanation": "A가 포함된 조합: C(9,2)=36, 전체 조합: C(10,3)=120 → 36/120=3/10"
+  },
+  {
+    "year": 2022,
+    "exam": "수능",
+    "subject": "확률과 통계",
+    "question_number": 262,
+    "question": "두 개의 동전을 동시에 던질 때, 적어도 한 개가 앞면일 확률은?",
+    "options": null,
+    "answer": "3/4",
+    "explanation": "전체 경우의 수 4, 적어도 앞면 하나: 3가지 → 3/4"
+  },
+  {
+    "year": 2010,
+    "exam": "9월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 263,
+    "question": "동전을 5번 던질 때, 앞면이 3번 나올 확률은?",
+    "options": null,
+    "answer": "10/32",
+    "explanation": "B(5,0.5)에서 P(X=3)=C(5,3)*(1/2)^5=10/32"
+  },
+  {
+    "year": 2021,
+    "exam": "6월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 264,
+    "question": "확률변수 X가 1,2,3 값을 가질 확률이 각각 0.2, 0.5, 0.3일 때, 기댓값 E(X)는?",
+    "options": null,
+    "answer": "2.1",
+    "explanation": "E(X)=1×0.2 + 2×0.5 + 3×0.3 = 2.1"
+  },
+  {
+    "year": 2017,
+    "exam": "6월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 265,
+    "question": "5개의 공에서 2개를 꺼내는 조합의 수는?",
+    "options": null,
+    "answer": "10",
+    "explanation": "C(5,2)=10"
+  },
+  {
+    "year": 2015,
+    "exam": "9월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 266,
+    "question": "두 개의 동전을 동시에 던질 때, 적어도 한 개가 앞면일 확률은?",
+    "options": null,
+    "answer": "3/4",
+    "explanation": "전체 경우의 수 4, 적어도 앞면 하나: 3가지 → 3/4"
+  },
+  {
+    "year": 2011,
+    "exam": "6월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 267,
+    "question": "확률변수 X가 1,2,3 값을 가질 확률이 각각 0.2, 0.5, 0.3일 때, 기댓값 E(X)는?",
+    "options": null,
+    "answer": "2.1",
+    "explanation": "E(X)=1×0.2 + 2×0.5 + 3×0.3 = 2.1"
+  },
+  {
+    "year": 2025,
+    "exam": "6월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 268,
+    "question": "A, B 두 사건이 있을 때, P(A)=0.4, P(B)=0.5, P(A∩B)=0.2일 때, P(A∪B)는?",
+    "options": null,
+    "answer": "0.7",
+    "explanation": "P(A∪B)=P(A)+P(B)-P(A∩B)=0.4+0.5-0.2=0.7"
+  },
+  {
+    "year": 2011,
+    "exam": "수능",
+    "subject": "확률과 통계",
+    "question_number": 269,
+    "question": "주사위를 두 번 던질 때, 합이 7이 될 확률은?",
+    "options": null,
+    "answer": "1/6",
+    "explanation": "(1,6),(2,5)... 총 6가지 / 36 → 6/36 = 1/6"
+  },
+  {
+    "year": 2014,
+    "exam": "9월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 270,
+    "question": "A, B 두 사건이 있을 때, P(A)=0.4, P(B)=0.5, P(A∩B)=0.2일 때, P(A∪B)는?",
+    "options": null,
+    "answer": "0.7",
+    "explanation": "P(A∪B)=P(A)+P(B)-P(A∩B)=0.4+0.5-0.2=0.7"
+  },
+  {
+    "year": 2015,
+    "exam": "수능",
+    "subject": "확률과 통계",
+    "question_number": 271,
+    "question": "두 개의 동전을 동시에 던질 때, 적어도 한 개가 앞면일 확률은?",
+    "options": null,
+    "answer": "3/4",
+    "explanation": "전체 경우의 수 4, 적어도 앞면 하나: 3가지 → 3/4"
+  },
+  {
+    "year": 2023,
+    "exam": "6월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 272,
+    "question": "동전을 5번 던질 때, 앞면이 3번 나올 확률은?",
+    "options": null,
+    "answer": "10/32",
+    "explanation": "B(5,0.5)에서 P(X=3)=C(5,3)*(1/2)^5=10/32"
+  },
+  {
+    "year": 2019,
+    "exam": "수능",
+    "subject": "확률과 통계",
+    "question_number": 273,
+    "question": "어떤 반의 학생 10명 중 3명을 무작위로 뽑을 때, 특정 학생 A가 포함될 확률은?",
+    "options": null,
+    "answer": "3/10",
+    "explanation": "A가 포함된 조합: C(9,2)=36, 전체 조합: C(10,3)=120 → 36/120=3/10"
+  },
+  {
+    "year": 2025,
+    "exam": "수능",
+    "subject": "확률과 통계",
+    "question_number": 274,
+    "question": "두 개의 동전을 동시에 던질 때, 적어도 한 개가 앞면일 확률은?",
+    "options": null,
+    "answer": "3/4",
+    "explanation": "전체 경우의 수 4, 적어도 앞면 하나: 3가지 → 3/4"
+  },
+  {
+    "year": 2015,
+    "exam": "6월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 275,
+    "question": "5개의 공에서 2개를 꺼내는 조합의 수는?",
+    "options": null,
+    "answer": "10",
+    "explanation": "C(5,2)=10"
+  },
+  {
+    "year": 2014,
+    "exam": "6월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 276,
+    "question": "주사위를 두 번 던질 때, 합이 7이 될 확률은?",
+    "options": null,
+    "answer": "1/6",
+    "explanation": "(1,6),(2,5)... 총 6가지 / 36 → 6/36 = 1/6"
+  },
+  {
+    "year": 2021,
+    "exam": "6월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 277,
+    "question": "서로 다른 숫자 카드 5장 중 3장을 뽑아 나열할 때, '2'가 반드시 포함되도록 하는 경우의 수는?",
+    "options": null,
+    "answer": "36",
+    "explanation": "'2'를 포함한 2장 선택: C(4,2)=6, 나열: 3!=6 → 총 6×6=36가지"
+  },
+  {
+    "year": 2021,
+    "exam": "6월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 278,
+    "question": "어떤 반의 학생 10명 중 3명을 무작위로 뽑을 때, 특정 학생 A가 포함될 확률은?",
+    "options": null,
+    "answer": "3/10",
+    "explanation": "A가 포함된 조합: C(9,2)=36, 전체 조합: C(10,3)=120 → 36/120=3/10"
+  },
+  {
+    "year": 2024,
+    "exam": "수능",
+    "subject": "확률과 통계",
+    "question_number": 279,
+    "question": "주사위를 두 번 던질 때, 합이 7이 될 확률은?",
+    "options": null,
+    "answer": "1/6",
+    "explanation": "(1,6),(2,5)... 총 6가지 / 36 → 6/36 = 1/6"
+  },
+  {
+    "year": 2021,
+    "exam": "6월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 280,
+    "question": "5개의 공에서 2개를 꺼내는 조합의 수는?",
+    "options": null,
+    "answer": "10",
+    "explanation": "C(5,2)=10"
+  },
+  {
+    "year": 2017,
+    "exam": "9월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 281,
+    "question": "5개의 공에서 2개를 꺼내는 조합의 수는?",
+    "options": null,
+    "answer": "10",
+    "explanation": "C(5,2)=10"
+  },
+  {
+    "year": 2023,
+    "exam": "9월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 282,
+    "question": "확률변수 X가 1,2,3 값을 가질 확률이 각각 0.2, 0.5, 0.3일 때, 기댓값 E(X)는?",
+    "options": null,
+    "answer": "2.1",
+    "explanation": "E(X)=1×0.2 + 2×0.5 + 3×0.3 = 2.1"
+  },
+  {
+    "year": 2019,
+    "exam": "9월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 283,
+    "question": "A, B 두 사건이 있을 때, P(A)=0.4, P(B)=0.5, P(A∩B)=0.2일 때, P(A∪B)는?",
+    "options": null,
+    "answer": "0.7",
+    "explanation": "P(A∪B)=P(A)+P(B)-P(A∩B)=0.4+0.5-0.2=0.7"
+  },
+  {
+    "year": 2024,
+    "exam": "수능",
+    "subject": "확률과 통계",
+    "question_number": 284,
+    "question": "5개의 공에서 2개를 꺼내는 조합의 수는?",
+    "options": null,
+    "answer": "10",
+    "explanation": "C(5,2)=10"
+  },
+  {
+    "year": 2018,
+    "exam": "6월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 285,
+    "question": "주사위를 두 번 던질 때, 합이 7이 될 확률은?",
+    "options": null,
+    "answer": "1/6",
+    "explanation": "(1,6),(2,5)... 총 6가지 / 36 → 6/36 = 1/6"
+  },
+  {
+    "year": 2015,
+    "exam": "9월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 286,
+    "question": "주사위를 두 번 던질 때, 합이 7이 될 확률은?",
+    "options": null,
+    "answer": "1/6",
+    "explanation": "(1,6),(2,5)... 총 6가지 / 36 → 6/36 = 1/6"
+  },
+  {
+    "year": 2025,
+    "exam": "6월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 287,
+    "question": "서로 다른 숫자 카드 5장 중 3장을 뽑아 나열할 때, '2'가 반드시 포함되도록 하는 경우의 수는?",
+    "options": null,
+    "answer": "36",
+    "explanation": "'2'를 포함한 2장 선택: C(4,2)=6, 나열: 3!=6 → 총 6×6=36가지"
+  },
+  {
+    "year": 2021,
+    "exam": "수능",
+    "subject": "확률과 통계",
+    "question_number": 288,
+    "question": "5개의 공에서 2개를 꺼내는 조합의 수는?",
+    "options": null,
+    "answer": "10",
+    "explanation": "C(5,2)=10"
+  },
+  {
+    "year": 2010,
+    "exam": "수능",
+    "subject": "확률과 통계",
+    "question_number": 289,
+    "question": "어떤 반의 학생 10명 중 3명을 무작위로 뽑을 때, 특정 학생 A가 포함될 확률은?",
+    "options": null,
+    "answer": "3/10",
+    "explanation": "A가 포함된 조합: C(9,2)=36, 전체 조합: C(10,3)=120 → 36/120=3/10"
+  },
+  {
+    "year": 2016,
+    "exam": "수능",
+    "subject": "확률과 통계",
+    "question_number": 290,
+    "question": "A, B 두 사건이 있을 때, P(A)=0.4, P(B)=0.5, P(A∩B)=0.2일 때, P(A∪B)는?",
+    "options": null,
+    "answer": "0.7",
+    "explanation": "P(A∪B)=P(A)+P(B)-P(A∩B)=0.4+0.5-0.2=0.7"
+  },
+  {
+    "year": 2017,
+    "exam": "9월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 291,
+    "question": "5개의 공에서 2개를 꺼내는 조합의 수는?",
+    "options": null,
+    "answer": "10",
+    "explanation": "C(5,2)=10"
+  },
+  {
+    "year": 2019,
+    "exam": "수능",
+    "subject": "확률과 통계",
+    "question_number": 292,
+    "question": "동전을 5번 던질 때, 앞면이 3번 나올 확률은?",
+    "options": null,
+    "answer": "10/32",
+    "explanation": "B(5,0.5)에서 P(X=3)=C(5,3)*(1/2)^5=10/32"
+  },
+  {
+    "year": 2020,
+    "exam": "수능",
+    "subject": "확률과 통계",
+    "question_number": 293,
+    "question": "동전을 5번 던질 때, 앞면이 3번 나올 확률은?",
+    "options": null,
+    "answer": "10/32",
+    "explanation": "B(5,0.5)에서 P(X=3)=C(5,3)*(1/2)^5=10/32"
+  },
+  {
+    "year": 2013,
+    "exam": "수능",
+    "subject": "확률과 통계",
+    "question_number": 294,
+    "question": "동전을 5번 던질 때, 앞면이 3번 나올 확률은?",
+    "options": null,
+    "answer": "10/32",
+    "explanation": "B(5,0.5)에서 P(X=3)=C(5,3)*(1/2)^5=10/32"
+  },
+  {
+    "year": 2015,
+    "exam": "9월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 295,
+    "question": "주사위를 두 번 던질 때, 합이 7이 될 확률은?",
+    "options": null,
+    "answer": "1/6",
+    "explanation": "(1,6),(2,5)... 총 6가지 / 36 → 6/36 = 1/6"
+  },
+  {
+    "year": 2018,
+    "exam": "6월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 296,
+    "question": "5개의 공에서 2개를 꺼내는 조합의 수는?",
+    "options": null,
+    "answer": "10",
+    "explanation": "C(5,2)=10"
+  },
+  {
+    "year": 2017,
+    "exam": "9월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 297,
+    "question": "확률변수 X가 1,2,3 값을 가질 확률이 각각 0.2, 0.5, 0.3일 때, 기댓값 E(X)는?",
+    "options": null,
+    "answer": "2.1",
+    "explanation": "E(X)=1×0.2 + 2×0.5 + 3×0.3 = 2.1"
+  },
+  {
+    "year": 2017,
+    "exam": "수능",
+    "subject": "확률과 통계",
+    "question_number": 298,
+    "question": "확률변수 X가 1,2,3 값을 가질 확률이 각각 0.2, 0.5, 0.3일 때, 기댓값 E(X)는?",
+    "options": null,
+    "answer": "2.1",
+    "explanation": "E(X)=1×0.2 + 2×0.5 + 3×0.3 = 2.1"
+  },
+  {
+    "year": 2010,
+    "exam": "수능",
+    "subject": "확률과 통계",
+    "question_number": 299,
+    "question": "어떤 반의 학생 10명 중 3명을 무작위로 뽑을 때, 특정 학생 A가 포함될 확률은?",
+    "options": null,
+    "answer": "3/10",
+    "explanation": "A가 포함된 조합: C(9,2)=36, 전체 조합: C(10,3)=120 → 36/120=3/10"
+  },
+  {
+    "year": 2023,
+    "exam": "수능",
+    "subject": "확률과 통계",
+    "question_number": 300,
+    "question": "주사위를 두 번 던질 때, 합이 7이 될 확률은?",
+    "options": null,
+    "answer": "1/6",
+    "explanation": "(1,6),(2,5)... 총 6가지 / 36 → 6/36 = 1/6"
+  },
+  {
+    "year": 2010,
+    "exam": "9월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 301,
+    "question": "동전을 5번 던질 때, 앞면이 3번 나올 확률은?",
+    "options": null,
+    "answer": "10/32",
+    "explanation": "B(5,0.5)에서 P(X=3)=C(5,3)*(1/2)^5=10/32"
+  },
+  {
+    "year": 2013,
+    "exam": "수능",
+    "subject": "확률과 통계",
+    "question_number": 302,
+    "question": "동전을 5번 던질 때, 앞면이 3번 나올 확률은?",
+    "options": null,
+    "answer": "10/32",
+    "explanation": "B(5,0.5)에서 P(X=3)=C(5,3)*(1/2)^5=10/32"
+  },
+  {
+    "year": 2020,
+    "exam": "6월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 303,
+    "question": "두 개의 동전을 동시에 던질 때, 적어도 한 개가 앞면일 확률은?",
+    "options": null,
+    "answer": "3/4",
+    "explanation": "전체 경우의 수 4, 적어도 앞면 하나: 3가지 → 3/4"
+  },
+  {
+    "year": 2013,
+    "exam": "9월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 304,
+    "question": "주사위를 두 번 던질 때, 합이 7이 될 확률은?",
+    "options": null,
+    "answer": "1/6",
+    "explanation": "(1,6),(2,5)... 총 6가지 / 36 → 6/36 = 1/6"
+  },
+  {
+    "year": 2011,
+    "exam": "수능",
+    "subject": "확률과 통계",
+    "question_number": 305,
+    "question": "동전을 5번 던질 때, 앞면이 3번 나올 확률은?",
+    "options": null,
+    "answer": "10/32",
+    "explanation": "B(5,0.5)에서 P(X=3)=C(5,3)*(1/2)^5=10/32"
+  },
+  {
+    "year": 2014,
+    "exam": "수능",
+    "subject": "확률과 통계",
+    "question_number": 306,
+    "question": "서로 다른 숫자 카드 5장 중 3장을 뽑아 나열할 때, '2'가 반드시 포함되도록 하는 경우의 수는?",
+    "options": null,
+    "answer": "36",
+    "explanation": "'2'를 포함한 2장 선택: C(4,2)=6, 나열: 3!=6 → 총 6×6=36가지"
+  },
+  {
+    "year": 2016,
+    "exam": "수능",
+    "subject": "확률과 통계",
+    "question_number": 307,
+    "question": "두 개의 동전을 동시에 던질 때, 적어도 한 개가 앞면일 확률은?",
+    "options": null,
+    "answer": "3/4",
+    "explanation": "전체 경우의 수 4, 적어도 앞면 하나: 3가지 → 3/4"
+  },
+  {
+    "year": 2022,
+    "exam": "6월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 308,
+    "question": "A, B 두 사건이 있을 때, P(A)=0.4, P(B)=0.5, P(A∩B)=0.2일 때, P(A∪B)는?",
+    "options": null,
+    "answer": "0.7",
+    "explanation": "P(A∪B)=P(A)+P(B)-P(A∩B)=0.4+0.5-0.2=0.7"
+  },
+  {
+    "year": 2018,
+    "exam": "9월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 309,
+    "question": "두 개의 동전을 동시에 던질 때, 적어도 한 개가 앞면일 확률은?",
+    "options": null,
+    "answer": "3/4",
+    "explanation": "전체 경우의 수 4, 적어도 앞면 하나: 3가지 → 3/4"
+  },
+  {
+    "year": 2016,
+    "exam": "6월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 310,
+    "question": "주사위를 두 번 던질 때, 합이 7이 될 확률은?",
+    "options": null,
+    "answer": "1/6",
+    "explanation": "(1,6),(2,5)... 총 6가지 / 36 → 6/36 = 1/6"
+  },
+  {
+    "year": 2012,
+    "exam": "9월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 311,
+    "question": "주사위를 두 번 던질 때, 합이 7이 될 확률은?",
+    "options": null,
+    "answer": "1/6",
+    "explanation": "(1,6),(2,5)... 총 6가지 / 36 → 6/36 = 1/6"
+  },
+  {
+    "year": 2018,
+    "exam": "9월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 312,
+    "question": "A, B 두 사건이 있을 때, P(A)=0.4, P(B)=0.5, P(A∩B)=0.2일 때, P(A∪B)는?",
+    "options": null,
+    "answer": "0.7",
+    "explanation": "P(A∪B)=P(A)+P(B)-P(A∩B)=0.4+0.5-0.2=0.7"
+  },
+  {
+    "year": 2011,
+    "exam": "수능",
+    "subject": "확률과 통계",
+    "question_number": 313,
+    "question": "동전을 5번 던질 때, 앞면이 3번 나올 확률은?",
+    "options": null,
+    "answer": "10/32",
+    "explanation": "B(5,0.5)에서 P(X=3)=C(5,3)*(1/2)^5=10/32"
+  },
+  {
+    "year": 2017,
+    "exam": "6월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 314,
+    "question": "확률변수 X가 1,2,3 값을 가질 확률이 각각 0.2, 0.5, 0.3일 때, 기댓값 E(X)는?",
+    "options": null,
+    "answer": "2.1",
+    "explanation": "E(X)=1×0.2 + 2×0.5 + 3×0.3 = 2.1"
+  },
+  {
+    "year": 2014,
+    "exam": "6월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 315,
+    "question": "A, B 두 사건이 있을 때, P(A)=0.4, P(B)=0.5, P(A∩B)=0.2일 때, P(A∪B)는?",
+    "options": null,
+    "answer": "0.7",
+    "explanation": "P(A∪B)=P(A)+P(B)-P(A∩B)=0.4+0.5-0.2=0.7"
+  },
+  {
+    "year": 2017,
+    "exam": "6월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 316,
+    "question": "어떤 반의 학생 10명 중 3명을 무작위로 뽑을 때, 특정 학생 A가 포함될 확률은?",
+    "options": null,
+    "answer": "3/10",
+    "explanation": "A가 포함된 조합: C(9,2)=36, 전체 조합: C(10,3)=120 → 36/120=3/10"
+  },
+  {
+    "year": 2025,
+    "exam": "수능",
+    "subject": "확률과 통계",
+    "question_number": 317,
+    "question": "두 개의 동전을 동시에 던질 때, 적어도 한 개가 앞면일 확률은?",
+    "options": null,
+    "answer": "3/4",
+    "explanation": "전체 경우의 수 4, 적어도 앞면 하나: 3가지 → 3/4"
+  },
+  {
+    "year": 2024,
+    "exam": "6월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 318,
+    "question": "두 개의 동전을 동시에 던질 때, 적어도 한 개가 앞면일 확률은?",
+    "options": null,
+    "answer": "3/4",
+    "explanation": "전체 경우의 수 4, 적어도 앞면 하나: 3가지 → 3/4"
+  },
+  {
+    "year": 2018,
+    "exam": "6월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 319,
+    "question": "확률변수 X가 1,2,3 값을 가질 확률이 각각 0.2, 0.5, 0.3일 때, 기댓값 E(X)는?",
+    "options": null,
+    "answer": "2.1",
+    "explanation": "E(X)=1×0.2 + 2×0.5 + 3×0.3 = 2.1"
+  },
+  {
+    "year": 2023,
+    "exam": "수능",
+    "subject": "확률과 통계",
+    "question_number": 320,
+    "question": "주사위를 두 번 던질 때, 합이 7이 될 확률은?",
+    "options": null,
+    "answer": "1/6",
+    "explanation": "(1,6),(2,5)... 총 6가지 / 36 → 6/36 = 1/6"
+  },
+  {
+    "year": 2024,
+    "exam": "9월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 321,
+    "question": "5개의 공에서 2개를 꺼내는 조합의 수는?",
+    "options": null,
+    "answer": "10",
+    "explanation": "C(5,2)=10"
+  },
+  {
+    "year": 2011,
+    "exam": "수능",
+    "subject": "확률과 통계",
+    "question_number": 322,
+    "question": "서로 다른 숫자 카드 5장 중 3장을 뽑아 나열할 때, '2'가 반드시 포함되도록 하는 경우의 수는?",
+    "options": null,
+    "answer": "36",
+    "explanation": "'2'를 포함한 2장 선택: C(4,2)=6, 나열: 3!=6 → 총 6×6=36가지"
+  },
+  {
+    "year": 2013,
+    "exam": "수능",
+    "subject": "확률과 통계",
+    "question_number": 323,
+    "question": "5개의 공에서 2개를 꺼내는 조합의 수는?",
+    "options": null,
+    "answer": "10",
+    "explanation": "C(5,2)=10"
+  },
+  {
+    "year": 2023,
+    "exam": "6월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 324,
+    "question": "서로 다른 숫자 카드 5장 중 3장을 뽑아 나열할 때, '2'가 반드시 포함되도록 하는 경우의 수는?",
+    "options": null,
+    "answer": "36",
+    "explanation": "'2'를 포함한 2장 선택: C(4,2)=6, 나열: 3!=6 → 총 6×6=36가지"
+  },
+  {
+    "year": 2025,
+    "exam": "6월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 325,
+    "question": "두 개의 동전을 동시에 던질 때, 적어도 한 개가 앞면일 확률은?",
+    "options": null,
+    "answer": "3/4",
+    "explanation": "전체 경우의 수 4, 적어도 앞면 하나: 3가지 → 3/4"
+  },
+  {
+    "year": 2017,
+    "exam": "9월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 326,
+    "question": "서로 다른 숫자 카드 5장 중 3장을 뽑아 나열할 때, '2'가 반드시 포함되도록 하는 경우의 수는?",
+    "options": null,
+    "answer": "36",
+    "explanation": "'2'를 포함한 2장 선택: C(4,2)=6, 나열: 3!=6 → 총 6×6=36가지"
+  },
+  {
+    "year": 2011,
+    "exam": "9월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 327,
+    "question": "두 개의 동전을 동시에 던질 때, 적어도 한 개가 앞면일 확률은?",
+    "options": null,
+    "answer": "3/4",
+    "explanation": "전체 경우의 수 4, 적어도 앞면 하나: 3가지 → 3/4"
+  },
+  {
+    "year": 2019,
+    "exam": "수능",
+    "subject": "확률과 통계",
+    "question_number": 328,
+    "question": "두 개의 동전을 동시에 던질 때, 적어도 한 개가 앞면일 확률은?",
+    "options": null,
+    "answer": "3/4",
+    "explanation": "전체 경우의 수 4, 적어도 앞면 하나: 3가지 → 3/4"
+  },
+  {
+    "year": 2017,
+    "exam": "6월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 329,
+    "question": "어떤 반의 학생 10명 중 3명을 무작위로 뽑을 때, 특정 학생 A가 포함될 확률은?",
+    "options": null,
+    "answer": "3/10",
+    "explanation": "A가 포함된 조합: C(9,2)=36, 전체 조합: C(10,3)=120 → 36/120=3/10"
+  },
+  {
+    "year": 2013,
+    "exam": "6월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 330,
+    "question": "5개의 공에서 2개를 꺼내는 조합의 수는?",
+    "options": null,
+    "answer": "10",
+    "explanation": "C(5,2)=10"
+  },
+  {
+    "year": 2020,
+    "exam": "6월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 331,
+    "question": "동전을 5번 던질 때, 앞면이 3번 나올 확률은?",
+    "options": null,
+    "answer": "10/32",
+    "explanation": "B(5,0.5)에서 P(X=3)=C(5,3)*(1/2)^5=10/32"
+  },
+  {
+    "year": 2012,
+    "exam": "9월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 332,
+    "question": "두 개의 동전을 동시에 던질 때, 적어도 한 개가 앞면일 확률은?",
+    "options": null,
+    "answer": "3/4",
+    "explanation": "전체 경우의 수 4, 적어도 앞면 하나: 3가지 → 3/4"
+  },
+  {
+    "year": 2021,
+    "exam": "6월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 333,
+    "question": "서로 다른 숫자 카드 5장 중 3장을 뽑아 나열할 때, '2'가 반드시 포함되도록 하는 경우의 수는?",
+    "options": null,
+    "answer": "36",
+    "explanation": "'2'를 포함한 2장 선택: C(4,2)=6, 나열: 3!=6 → 총 6×6=36가지"
+  },
+  {
+    "year": 2011,
+    "exam": "9월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 334,
+    "question": "확률변수 X가 1,2,3 값을 가질 확률이 각각 0.2, 0.5, 0.3일 때, 기댓값 E(X)는?",
+    "options": null,
+    "answer": "2.1",
+    "explanation": "E(X)=1×0.2 + 2×0.5 + 3×0.3 = 2.1"
+  },
+  {
+    "year": 2012,
+    "exam": "9월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 335,
+    "question": "두 개의 동전을 동시에 던질 때, 적어도 한 개가 앞면일 확률은?",
+    "options": null,
+    "answer": "3/4",
+    "explanation": "전체 경우의 수 4, 적어도 앞면 하나: 3가지 → 3/4"
+  },
+  {
+    "year": 2020,
+    "exam": "9월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 336,
+    "question": "동전을 5번 던질 때, 앞면이 3번 나올 확률은?",
+    "options": null,
+    "answer": "10/32",
+    "explanation": "B(5,0.5)에서 P(X=3)=C(5,3)*(1/2)^5=10/32"
+  },
+  {
+    "year": 2016,
+    "exam": "수능",
+    "subject": "확률과 통계",
+    "question_number": 337,
+    "question": "서로 다른 숫자 카드 5장 중 3장을 뽑아 나열할 때, '2'가 반드시 포함되도록 하는 경우의 수는?",
+    "options": null,
+    "answer": "36",
+    "explanation": "'2'를 포함한 2장 선택: C(4,2)=6, 나열: 3!=6 → 총 6×6=36가지"
+  },
+  {
+    "year": 2021,
+    "exam": "6월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 338,
+    "question": "주사위를 두 번 던질 때, 합이 7이 될 확률은?",
+    "options": null,
+    "answer": "1/6",
+    "explanation": "(1,6),(2,5)... 총 6가지 / 36 → 6/36 = 1/6"
+  },
+  {
+    "year": 2024,
+    "exam": "수능",
+    "subject": "확률과 통계",
+    "question_number": 339,
+    "question": "어떤 반의 학생 10명 중 3명을 무작위로 뽑을 때, 특정 학생 A가 포함될 확률은?",
+    "options": null,
+    "answer": "3/10",
+    "explanation": "A가 포함된 조합: C(9,2)=36, 전체 조합: C(10,3)=120 → 36/120=3/10"
+  },
+  {
+    "year": 2014,
+    "exam": "수능",
+    "subject": "확률과 통계",
+    "question_number": 340,
+    "question": "두 개의 동전을 동시에 던질 때, 적어도 한 개가 앞면일 확률은?",
+    "options": null,
+    "answer": "3/4",
+    "explanation": "전체 경우의 수 4, 적어도 앞면 하나: 3가지 → 3/4"
+  },
+  {
+    "year": 2020,
+    "exam": "9월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 341,
+    "question": "확률변수 X가 1,2,3 값을 가질 확률이 각각 0.2, 0.5, 0.3일 때, 기댓값 E(X)는?",
+    "options": null,
+    "answer": "2.1",
+    "explanation": "E(X)=1×0.2 + 2×0.5 + 3×0.3 = 2.1"
+  },
+  {
+    "year": 2011,
+    "exam": "수능",
+    "subject": "확률과 통계",
+    "question_number": 342,
+    "question": "어떤 반의 학생 10명 중 3명을 무작위로 뽑을 때, 특정 학생 A가 포함될 확률은?",
+    "options": null,
+    "answer": "3/10",
+    "explanation": "A가 포함된 조합: C(9,2)=36, 전체 조합: C(10,3)=120 → 36/120=3/10"
+  },
+  {
+    "year": 2018,
+    "exam": "6월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 343,
+    "question": "5개의 공에서 2개를 꺼내는 조합의 수는?",
+    "options": null,
+    "answer": "10",
+    "explanation": "C(5,2)=10"
+  },
+  {
+    "year": 2010,
+    "exam": "9월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 344,
+    "question": "두 개의 동전을 동시에 던질 때, 적어도 한 개가 앞면일 확률은?",
+    "options": null,
+    "answer": "3/4",
+    "explanation": "전체 경우의 수 4, 적어도 앞면 하나: 3가지 → 3/4"
+  },
+  {
+    "year": 2017,
+    "exam": "수능",
+    "subject": "확률과 통계",
+    "question_number": 345,
+    "question": "5개의 공에서 2개를 꺼내는 조합의 수는?",
+    "options": null,
+    "answer": "10",
+    "explanation": "C(5,2)=10"
+  },
+  {
+    "year": 2025,
+    "exam": "수능",
+    "subject": "확률과 통계",
+    "question_number": 346,
+    "question": "어떤 반의 학생 10명 중 3명을 무작위로 뽑을 때, 특정 학생 A가 포함될 확률은?",
+    "options": null,
+    "answer": "3/10",
+    "explanation": "A가 포함된 조합: C(9,2)=36, 전체 조합: C(10,3)=120 → 36/120=3/10"
+  },
+  {
+    "year": 2017,
+    "exam": "수능",
+    "subject": "확률과 통계",
+    "question_number": 347,
+    "question": "A, B 두 사건이 있을 때, P(A)=0.4, P(B)=0.5, P(A∩B)=0.2일 때, P(A∪B)는?",
+    "options": null,
+    "answer": "0.7",
+    "explanation": "P(A∪B)=P(A)+P(B)-P(A∩B)=0.4+0.5-0.2=0.7"
+  },
+  {
+    "year": 2010,
+    "exam": "수능",
+    "subject": "확률과 통계",
+    "question_number": 348,
+    "question": "어떤 반의 학생 10명 중 3명을 무작위로 뽑을 때, 특정 학생 A가 포함될 확률은?",
+    "options": null,
+    "answer": "3/10",
+    "explanation": "A가 포함된 조합: C(9,2)=36, 전체 조합: C(10,3)=120 → 36/120=3/10"
+  },
+  {
+    "year": 2016,
+    "exam": "6월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 349,
+    "question": "서로 다른 숫자 카드 5장 중 3장을 뽑아 나열할 때, '2'가 반드시 포함되도록 하는 경우의 수는?",
+    "options": null,
+    "answer": "36",
+    "explanation": "'2'를 포함한 2장 선택: C(4,2)=6, 나열: 3!=6 → 총 6×6=36가지"
+  },
+  {
+    "year": 2018,
+    "exam": "수능",
+    "subject": "확률과 통계",
+    "question_number": 350,
+    "question": "확률변수 X가 1,2,3 값을 가질 확률이 각각 0.2, 0.5, 0.3일 때, 기댓값 E(X)는?",
+    "options": null,
+    "answer": "2.1",
+    "explanation": "E(X)=1×0.2 + 2×0.5 + 3×0.3 = 2.1"
+  },
+  {
+    "year": 2015,
+    "exam": "9월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 351,
+    "question": "주사위를 두 번 던질 때, 합이 7이 될 확률은?",
+    "options": null,
+    "answer": "1/6",
+    "explanation": "(1,6),(2,5)... 총 6가지 / 36 → 6/36 = 1/6"
+  },
+  {
+    "year": 2025,
+    "exam": "수능",
+    "subject": "확률과 통계",
+    "question_number": 352,
+    "question": "두 개의 동전을 동시에 던질 때, 적어도 한 개가 앞면일 확률은?",
+    "options": null,
+    "answer": "3/4",
+    "explanation": "전체 경우의 수 4, 적어도 앞면 하나: 3가지 → 3/4"
+  },
+  {
+    "year": 2018,
+    "exam": "9월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 353,
+    "question": "5개의 공에서 2개를 꺼내는 조합의 수는?",
+    "options": null,
+    "answer": "10",
+    "explanation": "C(5,2)=10"
+  },
+  {
+    "year": 2014,
+    "exam": "수능",
+    "subject": "확률과 통계",
+    "question_number": 354,
+    "question": "A, B 두 사건이 있을 때, P(A)=0.4, P(B)=0.5, P(A∩B)=0.2일 때, P(A∪B)는?",
+    "options": null,
+    "answer": "0.7",
+    "explanation": "P(A∪B)=P(A)+P(B)-P(A∩B)=0.4+0.5-0.2=0.7"
+  },
+  {
+    "year": 2017,
+    "exam": "6월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 355,
+    "question": "주사위를 두 번 던질 때, 합이 7이 될 확률은?",
+    "options": null,
+    "answer": "1/6",
+    "explanation": "(1,6),(2,5)... 총 6가지 / 36 → 6/36 = 1/6"
+  },
+  {
+    "year": 2010,
+    "exam": "6월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 356,
+    "question": "5개의 공에서 2개를 꺼내는 조합의 수는?",
+    "options": null,
+    "answer": "10",
+    "explanation": "C(5,2)=10"
+  },
+  {
+    "year": 2013,
+    "exam": "수능",
+    "subject": "확률과 통계",
+    "question_number": 357,
+    "question": "확률변수 X가 1,2,3 값을 가질 확률이 각각 0.2, 0.5, 0.3일 때, 기댓값 E(X)는?",
+    "options": null,
+    "answer": "2.1",
+    "explanation": "E(X)=1×0.2 + 2×0.5 + 3×0.3 = 2.1"
+  },
+  {
+    "year": 2017,
+    "exam": "6월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 358,
+    "question": "동전을 5번 던질 때, 앞면이 3번 나올 확률은?",
+    "options": null,
+    "answer": "10/32",
+    "explanation": "B(5,0.5)에서 P(X=3)=C(5,3)*(1/2)^5=10/32"
+  },
+  {
+    "year": 2025,
+    "exam": "수능",
+    "subject": "확률과 통계",
+    "question_number": 359,
+    "question": "확률변수 X가 1,2,3 값을 가질 확률이 각각 0.2, 0.5, 0.3일 때, 기댓값 E(X)는?",
+    "options": null,
+    "answer": "2.1",
+    "explanation": "E(X)=1×0.2 + 2×0.5 + 3×0.3 = 2.1"
+  },
+  {
+    "year": 2012,
+    "exam": "수능",
+    "subject": "확률과 통계",
+    "question_number": 360,
+    "question": "두 개의 동전을 동시에 던질 때, 적어도 한 개가 앞면일 확률은?",
+    "options": null,
+    "answer": "3/4",
+    "explanation": "전체 경우의 수 4, 적어도 앞면 하나: 3가지 → 3/4"
+  },
+  {
+    "year": 2012,
+    "exam": "9월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 361,
+    "question": "두 개의 동전을 동시에 던질 때, 적어도 한 개가 앞면일 확률은?",
+    "options": null,
+    "answer": "3/4",
+    "explanation": "전체 경우의 수 4, 적어도 앞면 하나: 3가지 → 3/4"
+  },
+  {
+    "year": 2024,
+    "exam": "6월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 362,
+    "question": "두 개의 동전을 동시에 던질 때, 적어도 한 개가 앞면일 확률은?",
+    "options": null,
+    "answer": "3/4",
+    "explanation": "전체 경우의 수 4, 적어도 앞면 하나: 3가지 → 3/4"
+  },
+  {
+    "year": 2017,
+    "exam": "6월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 363,
+    "question": "주사위를 두 번 던질 때, 합이 7이 될 확률은?",
+    "options": null,
+    "answer": "1/6",
+    "explanation": "(1,6),(2,5)... 총 6가지 / 36 → 6/36 = 1/6"
+  },
+  {
+    "year": 2017,
+    "exam": "9월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 364,
+    "question": "어떤 반의 학생 10명 중 3명을 무작위로 뽑을 때, 특정 학생 A가 포함될 확률은?",
+    "options": null,
+    "answer": "3/10",
+    "explanation": "A가 포함된 조합: C(9,2)=36, 전체 조합: C(10,3)=120 → 36/120=3/10"
+  },
+  {
+    "year": 2017,
+    "exam": "6월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 365,
+    "question": "어떤 반의 학생 10명 중 3명을 무작위로 뽑을 때, 특정 학생 A가 포함될 확률은?",
+    "options": null,
+    "answer": "3/10",
+    "explanation": "A가 포함된 조합: C(9,2)=36, 전체 조합: C(10,3)=120 → 36/120=3/10"
+  },
+  {
+    "year": 2019,
+    "exam": "9월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 366,
+    "question": "어떤 반의 학생 10명 중 3명을 무작위로 뽑을 때, 특정 학생 A가 포함될 확률은?",
+    "options": null,
+    "answer": "3/10",
+    "explanation": "A가 포함된 조합: C(9,2)=36, 전체 조합: C(10,3)=120 → 36/120=3/10"
+  },
+  {
+    "year": 2020,
+    "exam": "6월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 367,
+    "question": "확률변수 X가 1,2,3 값을 가질 확률이 각각 0.2, 0.5, 0.3일 때, 기댓값 E(X)는?",
+    "options": null,
+    "answer": "2.1",
+    "explanation": "E(X)=1×0.2 + 2×0.5 + 3×0.3 = 2.1"
+  },
+  {
+    "year": 2011,
+    "exam": "9월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 368,
+    "question": "어떤 반의 학생 10명 중 3명을 무작위로 뽑을 때, 특정 학생 A가 포함될 확률은?",
+    "options": null,
+    "answer": "3/10",
+    "explanation": "A가 포함된 조합: C(9,2)=36, 전체 조합: C(10,3)=120 → 36/120=3/10"
+  },
+  {
+    "year": 2019,
+    "exam": "9월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 369,
+    "question": "동전을 5번 던질 때, 앞면이 3번 나올 확률은?",
+    "options": null,
+    "answer": "10/32",
+    "explanation": "B(5,0.5)에서 P(X=3)=C(5,3)*(1/2)^5=10/32"
+  },
+  {
+    "year": 2020,
+    "exam": "6월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 370,
+    "question": "어떤 반의 학생 10명 중 3명을 무작위로 뽑을 때, 특정 학생 A가 포함될 확률은?",
+    "options": null,
+    "answer": "3/10",
+    "explanation": "A가 포함된 조합: C(9,2)=36, 전체 조합: C(10,3)=120 → 36/120=3/10"
+  },
+  {
+    "year": 2022,
+    "exam": "6월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 371,
+    "question": "주사위를 두 번 던질 때, 합이 7이 될 확률은?",
+    "options": null,
+    "answer": "1/6",
+    "explanation": "(1,6),(2,5)... 총 6가지 / 36 → 6/36 = 1/6"
+  },
+  {
+    "year": 2018,
+    "exam": "6월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 372,
+    "question": "동전을 5번 던질 때, 앞면이 3번 나올 확률은?",
+    "options": null,
+    "answer": "10/32",
+    "explanation": "B(5,0.5)에서 P(X=3)=C(5,3)*(1/2)^5=10/32"
+  },
+  {
+    "year": 2012,
+    "exam": "6월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 373,
+    "question": "서로 다른 숫자 카드 5장 중 3장을 뽑아 나열할 때, '2'가 반드시 포함되도록 하는 경우의 수는?",
+    "options": null,
+    "answer": "36",
+    "explanation": "'2'를 포함한 2장 선택: C(4,2)=6, 나열: 3!=6 → 총 6×6=36가지"
+  },
+  {
+    "year": 2025,
+    "exam": "수능",
+    "subject": "확률과 통계",
+    "question_number": 374,
+    "question": "동전을 5번 던질 때, 앞면이 3번 나올 확률은?",
+    "options": null,
+    "answer": "10/32",
+    "explanation": "B(5,0.5)에서 P(X=3)=C(5,3)*(1/2)^5=10/32"
+  },
+  {
+    "year": 2018,
+    "exam": "수능",
+    "subject": "확률과 통계",
+    "question_number": 375,
+    "question": "동전을 5번 던질 때, 앞면이 3번 나올 확률은?",
+    "options": null,
+    "answer": "10/32",
+    "explanation": "B(5,0.5)에서 P(X=3)=C(5,3)*(1/2)^5=10/32"
+  },
+  {
+    "year": 2018,
+    "exam": "수능",
+    "subject": "확률과 통계",
+    "question_number": 376,
+    "question": "A, B 두 사건이 있을 때, P(A)=0.4, P(B)=0.5, P(A∩B)=0.2일 때, P(A∪B)는?",
+    "options": null,
+    "answer": "0.7",
+    "explanation": "P(A∪B)=P(A)+P(B)-P(A∩B)=0.4+0.5-0.2=0.7"
+  },
+  {
+    "year": 2023,
+    "exam": "6월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 377,
+    "question": "주사위를 두 번 던질 때, 합이 7이 될 확률은?",
+    "options": null,
+    "answer": "1/6",
+    "explanation": "(1,6),(2,5)... 총 6가지 / 36 → 6/36 = 1/6"
+  },
+  {
+    "year": 2024,
+    "exam": "6월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 378,
+    "question": "서로 다른 숫자 카드 5장 중 3장을 뽑아 나열할 때, '2'가 반드시 포함되도록 하는 경우의 수는?",
+    "options": null,
+    "answer": "36",
+    "explanation": "'2'를 포함한 2장 선택: C(4,2)=6, 나열: 3!=6 → 총 6×6=36가지"
+  },
+  {
+    "year": 2016,
+    "exam": "9월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 379,
+    "question": "서로 다른 숫자 카드 5장 중 3장을 뽑아 나열할 때, '2'가 반드시 포함되도록 하는 경우의 수는?",
+    "options": null,
+    "answer": "36",
+    "explanation": "'2'를 포함한 2장 선택: C(4,2)=6, 나열: 3!=6 → 총 6×6=36가지"
+  },
+  {
+    "year": 2012,
+    "exam": "6월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 380,
+    "question": "어떤 반의 학생 10명 중 3명을 무작위로 뽑을 때, 특정 학생 A가 포함될 확률은?",
+    "options": null,
+    "answer": "3/10",
+    "explanation": "A가 포함된 조합: C(9,2)=36, 전체 조합: C(10,3)=120 → 36/120=3/10"
+  },
+  {
+    "year": 2015,
+    "exam": "6월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 381,
+    "question": "주사위를 두 번 던질 때, 합이 7이 될 확률은?",
+    "options": null,
+    "answer": "1/6",
+    "explanation": "(1,6),(2,5)... 총 6가지 / 36 → 6/36 = 1/6"
+  },
+  {
+    "year": 2010,
+    "exam": "6월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 382,
+    "question": "두 개의 동전을 동시에 던질 때, 적어도 한 개가 앞면일 확률은?",
+    "options": null,
+    "answer": "3/4",
+    "explanation": "전체 경우의 수 4, 적어도 앞면 하나: 3가지 → 3/4"
+  },
+  {
+    "year": 2020,
+    "exam": "수능",
+    "subject": "확률과 통계",
+    "question_number": 383,
+    "question": "5개의 공에서 2개를 꺼내는 조합의 수는?",
+    "options": null,
+    "answer": "10",
+    "explanation": "C(5,2)=10"
+  },
+  {
+    "year": 2023,
+    "exam": "6월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 384,
+    "question": "A, B 두 사건이 있을 때, P(A)=0.4, P(B)=0.5, P(A∩B)=0.2일 때, P(A∪B)는?",
+    "options": null,
+    "answer": "0.7",
+    "explanation": "P(A∪B)=P(A)+P(B)-P(A∩B)=0.4+0.5-0.2=0.7"
+  },
+  {
+    "year": 2010,
+    "exam": "수능",
+    "subject": "확률과 통계",
+    "question_number": 385,
+    "question": "5개의 공에서 2개를 꺼내는 조합의 수는?",
+    "options": null,
+    "answer": "10",
+    "explanation": "C(5,2)=10"
+  },
+  {
+    "year": 2025,
+    "exam": "수능",
+    "subject": "확률과 통계",
+    "question_number": 386,
+    "question": "확률변수 X가 1,2,3 값을 가질 확률이 각각 0.2, 0.5, 0.3일 때, 기댓값 E(X)는?",
+    "options": null,
+    "answer": "2.1",
+    "explanation": "E(X)=1×0.2 + 2×0.5 + 3×0.3 = 2.1"
+  },
+  {
+    "year": 2021,
+    "exam": "6월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 387,
+    "question": "5개의 공에서 2개를 꺼내는 조합의 수는?",
+    "options": null,
+    "answer": "10",
+    "explanation": "C(5,2)=10"
+  },
+  {
+    "year": 2025,
+    "exam": "6월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 388,
+    "question": "주사위를 두 번 던질 때, 합이 7이 될 확률은?",
+    "options": null,
+    "answer": "1/6",
+    "explanation": "(1,6),(2,5)... 총 6가지 / 36 → 6/36 = 1/6"
+  },
+  {
+    "year": 2014,
+    "exam": "수능",
+    "subject": "확률과 통계",
+    "question_number": 389,
+    "question": "두 개의 동전을 동시에 던질 때, 적어도 한 개가 앞면일 확률은?",
+    "options": null,
+    "answer": "3/4",
+    "explanation": "전체 경우의 수 4, 적어도 앞면 하나: 3가지 → 3/4"
+  },
+  {
+    "year": 2016,
+    "exam": "9월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 390,
+    "question": "확률변수 X가 1,2,3 값을 가질 확률이 각각 0.2, 0.5, 0.3일 때, 기댓값 E(X)는?",
+    "options": null,
+    "answer": "2.1",
+    "explanation": "E(X)=1×0.2 + 2×0.5 + 3×0.3 = 2.1"
+  },
+  {
+    "year": 2014,
+    "exam": "9월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 391,
+    "question": "두 개의 동전을 동시에 던질 때, 적어도 한 개가 앞면일 확률은?",
+    "options": null,
+    "answer": "3/4",
+    "explanation": "전체 경우의 수 4, 적어도 앞면 하나: 3가지 → 3/4"
+  },
+  {
+    "year": 2019,
+    "exam": "수능",
+    "subject": "확률과 통계",
+    "question_number": 392,
+    "question": "두 개의 동전을 동시에 던질 때, 적어도 한 개가 앞면일 확률은?",
+    "options": null,
+    "answer": "3/4",
+    "explanation": "전체 경우의 수 4, 적어도 앞면 하나: 3가지 → 3/4"
+  },
+  {
+    "year": 2012,
+    "exam": "6월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 393,
+    "question": "어떤 반의 학생 10명 중 3명을 무작위로 뽑을 때, 특정 학생 A가 포함될 확률은?",
+    "options": null,
+    "answer": "3/10",
+    "explanation": "A가 포함된 조합: C(9,2)=36, 전체 조합: C(10,3)=120 → 36/120=3/10"
+  },
+  {
+    "year": 2024,
+    "exam": "9월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 394,
+    "question": "두 개의 동전을 동시에 던질 때, 적어도 한 개가 앞면일 확률은?",
+    "options": null,
+    "answer": "3/4",
+    "explanation": "전체 경우의 수 4, 적어도 앞면 하나: 3가지 → 3/4"
+  },
+  {
+    "year": 2025,
+    "exam": "9월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 395,
+    "question": "A, B 두 사건이 있을 때, P(A)=0.4, P(B)=0.5, P(A∩B)=0.2일 때, P(A∪B)는?",
+    "options": null,
+    "answer": "0.7",
+    "explanation": "P(A∪B)=P(A)+P(B)-P(A∩B)=0.4+0.5-0.2=0.7"
+  },
+  {
+    "year": 2014,
+    "exam": "9월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 396,
+    "question": "서로 다른 숫자 카드 5장 중 3장을 뽑아 나열할 때, '2'가 반드시 포함되도록 하는 경우의 수는?",
+    "options": null,
+    "answer": "36",
+    "explanation": "'2'를 포함한 2장 선택: C(4,2)=6, 나열: 3!=6 → 총 6×6=36가지"
+  },
+  {
+    "year": 2023,
+    "exam": "9월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 397,
+    "question": "서로 다른 숫자 카드 5장 중 3장을 뽑아 나열할 때, '2'가 반드시 포함되도록 하는 경우의 수는?",
+    "options": null,
+    "answer": "36",
+    "explanation": "'2'를 포함한 2장 선택: C(4,2)=6, 나열: 3!=6 → 총 6×6=36가지"
+  },
+  {
+    "year": 2024,
+    "exam": "수능",
+    "subject": "확률과 통계",
+    "question_number": 398,
+    "question": "5개의 공에서 2개를 꺼내는 조합의 수는?",
+    "options": null,
+    "answer": "10",
+    "explanation": "C(5,2)=10"
+  },
+  {
+    "year": 2023,
+    "exam": "6월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 399,
+    "question": "서로 다른 숫자 카드 5장 중 3장을 뽑아 나열할 때, '2'가 반드시 포함되도록 하는 경우의 수는?",
+    "options": null,
+    "answer": "36",
+    "explanation": "'2'를 포함한 2장 선택: C(4,2)=6, 나열: 3!=6 → 총 6×6=36가지"
+  },
+  {
+    "year": 2025,
+    "exam": "6월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 400,
+    "question": "A, B 두 사건이 있을 때, P(A)=0.4, P(B)=0.5, P(A∩B)=0.2일 때, P(A∪B)는?",
+    "options": null,
+    "answer": "0.7",
+    "explanation": "P(A∪B)=P(A)+P(B)-P(A∩B)=0.4+0.5-0.2=0.7"
+  },
+  {
+    "year": 2020,
+    "exam": "6월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 401,
+    "question": "주사위를 두 번 던질 때, 합이 7이 될 확률은?",
+    "options": null,
+    "answer": "1/6",
+    "explanation": "(1,6),(2,5)... 총 6가지 / 36 → 6/36 = 1/6"
+  },
+  {
+    "year": 2024,
+    "exam": "수능",
+    "subject": "확률과 통계",
+    "question_number": 402,
+    "question": "주사위를 두 번 던질 때, 합이 7이 될 확률은?",
+    "options": null,
+    "answer": "1/6",
+    "explanation": "(1,6),(2,5)... 총 6가지 / 36 → 6/36 = 1/6"
+  },
+  {
+    "year": 2023,
+    "exam": "6월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 403,
+    "question": "확률변수 X가 1,2,3 값을 가질 확률이 각각 0.2, 0.5, 0.3일 때, 기댓값 E(X)는?",
+    "options": null,
+    "answer": "2.1",
+    "explanation": "E(X)=1×0.2 + 2×0.5 + 3×0.3 = 2.1"
+  },
+  {
+    "year": 2020,
+    "exam": "9월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 404,
+    "question": "A, B 두 사건이 있을 때, P(A)=0.4, P(B)=0.5, P(A∩B)=0.2일 때, P(A∪B)는?",
+    "options": null,
+    "answer": "0.7",
+    "explanation": "P(A∪B)=P(A)+P(B)-P(A∩B)=0.4+0.5-0.2=0.7"
+  },
+  {
+    "year": 2023,
+    "exam": "9월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 405,
+    "question": "A, B 두 사건이 있을 때, P(A)=0.4, P(B)=0.5, P(A∩B)=0.2일 때, P(A∪B)는?",
+    "options": null,
+    "answer": "0.7",
+    "explanation": "P(A∪B)=P(A)+P(B)-P(A∩B)=0.4+0.5-0.2=0.7"
+  },
+  {
+    "year": 2024,
+    "exam": "수능",
+    "subject": "확률과 통계",
+    "question_number": 406,
+    "question": "동전을 5번 던질 때, 앞면이 3번 나올 확률은?",
+    "options": null,
+    "answer": "10/32",
+    "explanation": "B(5,0.5)에서 P(X=3)=C(5,3)*(1/2)^5=10/32"
+  },
+  {
+    "year": 2016,
+    "exam": "6월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 407,
+    "question": "동전을 5번 던질 때, 앞면이 3번 나올 확률은?",
+    "options": null,
+    "answer": "10/32",
+    "explanation": "B(5,0.5)에서 P(X=3)=C(5,3)*(1/2)^5=10/32"
+  },
+  {
+    "year": 2011,
+    "exam": "6월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 408,
+    "question": "서로 다른 숫자 카드 5장 중 3장을 뽑아 나열할 때, '2'가 반드시 포함되도록 하는 경우의 수는?",
+    "options": null,
+    "answer": "36",
+    "explanation": "'2'를 포함한 2장 선택: C(4,2)=6, 나열: 3!=6 → 총 6×6=36가지"
+  },
+  {
+    "year": 2023,
+    "exam": "6월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 409,
+    "question": "동전을 5번 던질 때, 앞면이 3번 나올 확률은?",
+    "options": null,
+    "answer": "10/32",
+    "explanation": "B(5,0.5)에서 P(X=3)=C(5,3)*(1/2)^5=10/32"
+  },
+  {
+    "year": 2012,
+    "exam": "9월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 410,
+    "question": "확률변수 X가 1,2,3 값을 가질 확률이 각각 0.2, 0.5, 0.3일 때, 기댓값 E(X)는?",
+    "options": null,
+    "answer": "2.1",
+    "explanation": "E(X)=1×0.2 + 2×0.5 + 3×0.3 = 2.1"
+  },
+  {
+    "year": 2016,
+    "exam": "9월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 411,
+    "question": "서로 다른 숫자 카드 5장 중 3장을 뽑아 나열할 때, '2'가 반드시 포함되도록 하는 경우의 수는?",
+    "options": null,
+    "answer": "36",
+    "explanation": "'2'를 포함한 2장 선택: C(4,2)=6, 나열: 3!=6 → 총 6×6=36가지"
+  },
+  {
+    "year": 2020,
+    "exam": "6월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 412,
+    "question": "어떤 반의 학생 10명 중 3명을 무작위로 뽑을 때, 특정 학생 A가 포함될 확률은?",
+    "options": null,
+    "answer": "3/10",
+    "explanation": "A가 포함된 조합: C(9,2)=36, 전체 조합: C(10,3)=120 → 36/120=3/10"
+  },
+  {
+    "year": 2024,
+    "exam": "수능",
+    "subject": "확률과 통계",
+    "question_number": 413,
+    "question": "5개의 공에서 2개를 꺼내는 조합의 수는?",
+    "options": null,
+    "answer": "10",
+    "explanation": "C(5,2)=10"
+  },
+  {
+    "year": 2019,
+    "exam": "수능",
+    "subject": "확률과 통계",
+    "question_number": 414,
+    "question": "5개의 공에서 2개를 꺼내는 조합의 수는?",
+    "options": null,
+    "answer": "10",
+    "explanation": "C(5,2)=10"
+  },
+  {
+    "year": 2021,
+    "exam": "6월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 415,
+    "question": "서로 다른 숫자 카드 5장 중 3장을 뽑아 나열할 때, '2'가 반드시 포함되도록 하는 경우의 수는?",
+    "options": null,
+    "answer": "36",
+    "explanation": "'2'를 포함한 2장 선택: C(4,2)=6, 나열: 3!=6 → 총 6×6=36가지"
+  },
+  {
+    "year": 2015,
+    "exam": "수능",
+    "subject": "확률과 통계",
+    "question_number": 416,
+    "question": "서로 다른 숫자 카드 5장 중 3장을 뽑아 나열할 때, '2'가 반드시 포함되도록 하는 경우의 수는?",
+    "options": null,
+    "answer": "36",
+    "explanation": "'2'를 포함한 2장 선택: C(4,2)=6, 나열: 3!=6 → 총 6×6=36가지"
+  },
+  {
+    "year": 2022,
+    "exam": "9월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 417,
+    "question": "어떤 반의 학생 10명 중 3명을 무작위로 뽑을 때, 특정 학생 A가 포함될 확률은?",
+    "options": null,
+    "answer": "3/10",
+    "explanation": "A가 포함된 조합: C(9,2)=36, 전체 조합: C(10,3)=120 → 36/120=3/10"
+  },
+  {
+    "year": 2024,
+    "exam": "9월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 418,
+    "question": "A, B 두 사건이 있을 때, P(A)=0.4, P(B)=0.5, P(A∩B)=0.2일 때, P(A∪B)는?",
+    "options": null,
+    "answer": "0.7",
+    "explanation": "P(A∪B)=P(A)+P(B)-P(A∩B)=0.4+0.5-0.2=0.7"
+  },
+  {
+    "year": 2021,
+    "exam": "9월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 419,
+    "question": "서로 다른 숫자 카드 5장 중 3장을 뽑아 나열할 때, '2'가 반드시 포함되도록 하는 경우의 수는?",
+    "options": null,
+    "answer": "36",
+    "explanation": "'2'를 포함한 2장 선택: C(4,2)=6, 나열: 3!=6 → 총 6×6=36가지"
+  },
+  {
+    "year": 2014,
+    "exam": "수능",
+    "subject": "확률과 통계",
+    "question_number": 420,
+    "question": "확률변수 X가 1,2,3 값을 가질 확률이 각각 0.2, 0.5, 0.3일 때, 기댓값 E(X)는?",
+    "options": null,
+    "answer": "2.1",
+    "explanation": "E(X)=1×0.2 + 2×0.5 + 3×0.3 = 2.1"
+  },
+  {
+    "year": 2015,
+    "exam": "9월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 421,
+    "question": "동전을 5번 던질 때, 앞면이 3번 나올 확률은?",
+    "options": null,
+    "answer": "10/32",
+    "explanation": "B(5,0.5)에서 P(X=3)=C(5,3)*(1/2)^5=10/32"
+  },
+  {
+    "year": 2021,
+    "exam": "9월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 422,
+    "question": "어떤 반의 학생 10명 중 3명을 무작위로 뽑을 때, 특정 학생 A가 포함될 확률은?",
+    "options": null,
+    "answer": "3/10",
+    "explanation": "A가 포함된 조합: C(9,2)=36, 전체 조합: C(10,3)=120 → 36/120=3/10"
+  },
+  {
+    "year": 2019,
+    "exam": "수능",
+    "subject": "확률과 통계",
+    "question_number": 423,
+    "question": "동전을 5번 던질 때, 앞면이 3번 나올 확률은?",
+    "options": null,
+    "answer": "10/32",
+    "explanation": "B(5,0.5)에서 P(X=3)=C(5,3)*(1/2)^5=10/32"
+  },
+  {
+    "year": 2015,
+    "exam": "9월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 424,
+    "question": "동전을 5번 던질 때, 앞면이 3번 나올 확률은?",
+    "options": null,
+    "answer": "10/32",
+    "explanation": "B(5,0.5)에서 P(X=3)=C(5,3)*(1/2)^5=10/32"
+  },
+  {
+    "year": 2017,
+    "exam": "수능",
+    "subject": "확률과 통계",
+    "question_number": 425,
+    "question": "A, B 두 사건이 있을 때, P(A)=0.4, P(B)=0.5, P(A∩B)=0.2일 때, P(A∪B)는?",
+    "options": null,
+    "answer": "0.7",
+    "explanation": "P(A∪B)=P(A)+P(B)-P(A∩B)=0.4+0.5-0.2=0.7"
+  },
+  {
+    "year": 2018,
+    "exam": "6월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 426,
+    "question": "서로 다른 숫자 카드 5장 중 3장을 뽑아 나열할 때, '2'가 반드시 포함되도록 하는 경우의 수는?",
+    "options": null,
+    "answer": "36",
+    "explanation": "'2'를 포함한 2장 선택: C(4,2)=6, 나열: 3!=6 → 총 6×6=36가지"
+  },
+  {
+    "year": 2017,
+    "exam": "수능",
+    "subject": "확률과 통계",
+    "question_number": 427,
+    "question": "어떤 반의 학생 10명 중 3명을 무작위로 뽑을 때, 특정 학생 A가 포함될 확률은?",
+    "options": null,
+    "answer": "3/10",
+    "explanation": "A가 포함된 조합: C(9,2)=36, 전체 조합: C(10,3)=120 → 36/120=3/10"
+  },
+  {
+    "year": 2013,
+    "exam": "수능",
+    "subject": "확률과 통계",
+    "question_number": 428,
+    "question": "주사위를 두 번 던질 때, 합이 7이 될 확률은?",
+    "options": null,
+    "answer": "1/6",
+    "explanation": "(1,6),(2,5)... 총 6가지 / 36 → 6/36 = 1/6"
+  },
+  {
+    "year": 2017,
+    "exam": "6월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 429,
+    "question": "동전을 5번 던질 때, 앞면이 3번 나올 확률은?",
+    "options": null,
+    "answer": "10/32",
+    "explanation": "B(5,0.5)에서 P(X=3)=C(5,3)*(1/2)^5=10/32"
+  },
+  {
+    "year": 2012,
+    "exam": "6월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 430,
+    "question": "확률변수 X가 1,2,3 값을 가질 확률이 각각 0.2, 0.5, 0.3일 때, 기댓값 E(X)는?",
+    "options": null,
+    "answer": "2.1",
+    "explanation": "E(X)=1×0.2 + 2×0.5 + 3×0.3 = 2.1"
+  },
+  {
+    "year": 2023,
+    "exam": "6월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 431,
+    "question": "A, B 두 사건이 있을 때, P(A)=0.4, P(B)=0.5, P(A∩B)=0.2일 때, P(A∪B)는?",
+    "options": null,
+    "answer": "0.7",
+    "explanation": "P(A∪B)=P(A)+P(B)-P(A∩B)=0.4+0.5-0.2=0.7"
+  },
+  {
+    "year": 2015,
+    "exam": "6월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 432,
+    "question": "어떤 반의 학생 10명 중 3명을 무작위로 뽑을 때, 특정 학생 A가 포함될 확률은?",
+    "options": null,
+    "answer": "3/10",
+    "explanation": "A가 포함된 조합: C(9,2)=36, 전체 조합: C(10,3)=120 → 36/120=3/10"
+  },
+  {
+    "year": 2019,
+    "exam": "9월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 433,
+    "question": "5개의 공에서 2개를 꺼내는 조합의 수는?",
+    "options": null,
+    "answer": "10",
+    "explanation": "C(5,2)=10"
+  },
+  {
+    "year": 2020,
+    "exam": "수능",
+    "subject": "확률과 통계",
+    "question_number": 434,
+    "question": "주사위를 두 번 던질 때, 합이 7이 될 확률은?",
+    "options": null,
+    "answer": "1/6",
+    "explanation": "(1,6),(2,5)... 총 6가지 / 36 → 6/36 = 1/6"
+  },
+  {
+    "year": 2021,
+    "exam": "수능",
+    "subject": "확률과 통계",
+    "question_number": 435,
+    "question": "서로 다른 숫자 카드 5장 중 3장을 뽑아 나열할 때, '2'가 반드시 포함되도록 하는 경우의 수는?",
+    "options": null,
+    "answer": "36",
+    "explanation": "'2'를 포함한 2장 선택: C(4,2)=6, 나열: 3!=6 → 총 6×6=36가지"
+  },
+  {
+    "year": 2015,
+    "exam": "수능",
+    "subject": "확률과 통계",
+    "question_number": 436,
+    "question": "서로 다른 숫자 카드 5장 중 3장을 뽑아 나열할 때, '2'가 반드시 포함되도록 하는 경우의 수는?",
+    "options": null,
+    "answer": "36",
+    "explanation": "'2'를 포함한 2장 선택: C(4,2)=6, 나열: 3!=6 → 총 6×6=36가지"
+  },
+  {
+    "year": 2017,
+    "exam": "수능",
+    "subject": "확률과 통계",
+    "question_number": 437,
+    "question": "A, B 두 사건이 있을 때, P(A)=0.4, P(B)=0.5, P(A∩B)=0.2일 때, P(A∪B)는?",
+    "options": null,
+    "answer": "0.7",
+    "explanation": "P(A∪B)=P(A)+P(B)-P(A∩B)=0.4+0.5-0.2=0.7"
+  },
+  {
+    "year": 2015,
+    "exam": "6월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 438,
+    "question": "동전을 5번 던질 때, 앞면이 3번 나올 확률은?",
+    "options": null,
+    "answer": "10/32",
+    "explanation": "B(5,0.5)에서 P(X=3)=C(5,3)*(1/2)^5=10/32"
+  },
+  {
+    "year": 2023,
+    "exam": "6월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 439,
+    "question": "두 개의 동전을 동시에 던질 때, 적어도 한 개가 앞면일 확률은?",
+    "options": null,
+    "answer": "3/4",
+    "explanation": "전체 경우의 수 4, 적어도 앞면 하나: 3가지 → 3/4"
+  },
+  {
+    "year": 2013,
+    "exam": "9월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 440,
+    "question": "5개의 공에서 2개를 꺼내는 조합의 수는?",
+    "options": null,
+    "answer": "10",
+    "explanation": "C(5,2)=10"
+  },
+  {
+    "year": 2018,
+    "exam": "9월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 441,
+    "question": "5개의 공에서 2개를 꺼내는 조합의 수는?",
+    "options": null,
+    "answer": "10",
+    "explanation": "C(5,2)=10"
+  },
+  {
+    "year": 2023,
+    "exam": "수능",
+    "subject": "확률과 통계",
+    "question_number": 442,
+    "question": "두 개의 동전을 동시에 던질 때, 적어도 한 개가 앞면일 확률은?",
+    "options": null,
+    "answer": "3/4",
+    "explanation": "전체 경우의 수 4, 적어도 앞면 하나: 3가지 → 3/4"
+  },
+  {
+    "year": 2016,
+    "exam": "9월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 443,
+    "question": "동전을 5번 던질 때, 앞면이 3번 나올 확률은?",
+    "options": null,
+    "answer": "10/32",
+    "explanation": "B(5,0.5)에서 P(X=3)=C(5,3)*(1/2)^5=10/32"
+  },
+  {
+    "year": 2013,
+    "exam": "6월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 444,
+    "question": "서로 다른 숫자 카드 5장 중 3장을 뽑아 나열할 때, '2'가 반드시 포함되도록 하는 경우의 수는?",
+    "options": null,
+    "answer": "36",
+    "explanation": "'2'를 포함한 2장 선택: C(4,2)=6, 나열: 3!=6 → 총 6×6=36가지"
+  },
+  {
+    "year": 2022,
+    "exam": "6월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 445,
+    "question": "A, B 두 사건이 있을 때, P(A)=0.4, P(B)=0.5, P(A∩B)=0.2일 때, P(A∪B)는?",
+    "options": null,
+    "answer": "0.7",
+    "explanation": "P(A∪B)=P(A)+P(B)-P(A∩B)=0.4+0.5-0.2=0.7"
+  },
+  {
+    "year": 2016,
+    "exam": "6월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 446,
+    "question": "어떤 반의 학생 10명 중 3명을 무작위로 뽑을 때, 특정 학생 A가 포함될 확률은?",
+    "options": null,
+    "answer": "3/10",
+    "explanation": "A가 포함된 조합: C(9,2)=36, 전체 조합: C(10,3)=120 → 36/120=3/10"
+  },
+  {
+    "year": 2025,
+    "exam": "6월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 447,
+    "question": "두 개의 동전을 동시에 던질 때, 적어도 한 개가 앞면일 확률은?",
+    "options": null,
+    "answer": "3/4",
+    "explanation": "전체 경우의 수 4, 적어도 앞면 하나: 3가지 → 3/4"
+  },
+  {
+    "year": 2020,
+    "exam": "9월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 448,
+    "question": "서로 다른 숫자 카드 5장 중 3장을 뽑아 나열할 때, '2'가 반드시 포함되도록 하는 경우의 수는?",
+    "options": null,
+    "answer": "36",
+    "explanation": "'2'를 포함한 2장 선택: C(4,2)=6, 나열: 3!=6 → 총 6×6=36가지"
+  },
+  {
+    "year": 2025,
+    "exam": "수능",
+    "subject": "확률과 통계",
+    "question_number": 449,
+    "question": "서로 다른 숫자 카드 5장 중 3장을 뽑아 나열할 때, '2'가 반드시 포함되도록 하는 경우의 수는?",
+    "options": null,
+    "answer": "36",
+    "explanation": "'2'를 포함한 2장 선택: C(4,2)=6, 나열: 3!=6 → 총 6×6=36가지"
+  },
+  {
+    "year": 2012,
+    "exam": "6월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 450,
+    "question": "두 개의 동전을 동시에 던질 때, 적어도 한 개가 앞면일 확률은?",
+    "options": null,
+    "answer": "3/4",
+    "explanation": "전체 경우의 수 4, 적어도 앞면 하나: 3가지 → 3/4"
+  },
+  {
+    "year": 2022,
+    "exam": "수능",
+    "subject": "확률과 통계",
+    "question_number": 451,
+    "question": "어떤 반의 학생 10명 중 3명을 무작위로 뽑을 때, 특정 학생 A가 포함될 확률은?",
+    "options": null,
+    "answer": "3/10",
+    "explanation": "A가 포함된 조합: C(9,2)=36, 전체 조합: C(10,3)=120 → 36/120=3/10"
+  },
+  {
+    "year": 2010,
+    "exam": "수능",
+    "subject": "확률과 통계",
+    "question_number": 452,
+    "question": "확률변수 X가 1,2,3 값을 가질 확률이 각각 0.2, 0.5, 0.3일 때, 기댓값 E(X)는?",
+    "options": null,
+    "answer": "2.1",
+    "explanation": "E(X)=1×0.2 + 2×0.5 + 3×0.3 = 2.1"
+  },
+  {
+    "year": 2013,
+    "exam": "9월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 453,
+    "question": "두 개의 동전을 동시에 던질 때, 적어도 한 개가 앞면일 확률은?",
+    "options": null,
+    "answer": "3/4",
+    "explanation": "전체 경우의 수 4, 적어도 앞면 하나: 3가지 → 3/4"
+  },
+  {
+    "year": 2012,
+    "exam": "수능",
+    "subject": "확률과 통계",
+    "question_number": 454,
+    "question": "동전을 5번 던질 때, 앞면이 3번 나올 확률은?",
+    "options": null,
+    "answer": "10/32",
+    "explanation": "B(5,0.5)에서 P(X=3)=C(5,3)*(1/2)^5=10/32"
+  },
+  {
+    "year": 2024,
+    "exam": "6월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 455,
+    "question": "A, B 두 사건이 있을 때, P(A)=0.4, P(B)=0.5, P(A∩B)=0.2일 때, P(A∪B)는?",
+    "options": null,
+    "answer": "0.7",
+    "explanation": "P(A∪B)=P(A)+P(B)-P(A∩B)=0.4+0.5-0.2=0.7"
+  },
+  {
+    "year": 2014,
+    "exam": "수능",
+    "subject": "확률과 통계",
+    "question_number": 456,
+    "question": "두 개의 동전을 동시에 던질 때, 적어도 한 개가 앞면일 확률은?",
+    "options": null,
+    "answer": "3/4",
+    "explanation": "전체 경우의 수 4, 적어도 앞면 하나: 3가지 → 3/4"
+  },
+  {
+    "year": 2013,
+    "exam": "9월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 457,
+    "question": "어떤 반의 학생 10명 중 3명을 무작위로 뽑을 때, 특정 학생 A가 포함될 확률은?",
+    "options": null,
+    "answer": "3/10",
+    "explanation": "A가 포함된 조합: C(9,2)=36, 전체 조합: C(10,3)=120 → 36/120=3/10"
+  },
+  {
+    "year": 2020,
+    "exam": "수능",
+    "subject": "확률과 통계",
+    "question_number": 458,
+    "question": "확률변수 X가 1,2,3 값을 가질 확률이 각각 0.2, 0.5, 0.3일 때, 기댓값 E(X)는?",
+    "options": null,
+    "answer": "2.1",
+    "explanation": "E(X)=1×0.2 + 2×0.5 + 3×0.3 = 2.1"
+  },
+  {
+    "year": 2011,
+    "exam": "수능",
+    "subject": "확률과 통계",
+    "question_number": 459,
+    "question": "어떤 반의 학생 10명 중 3명을 무작위로 뽑을 때, 특정 학생 A가 포함될 확률은?",
+    "options": null,
+    "answer": "3/10",
+    "explanation": "A가 포함된 조합: C(9,2)=36, 전체 조합: C(10,3)=120 → 36/120=3/10"
+  },
+  {
+    "year": 2023,
+    "exam": "6월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 460,
+    "question": "A, B 두 사건이 있을 때, P(A)=0.4, P(B)=0.5, P(A∩B)=0.2일 때, P(A∪B)는?",
+    "options": null,
+    "answer": "0.7",
+    "explanation": "P(A∪B)=P(A)+P(B)-P(A∩B)=0.4+0.5-0.2=0.7"
+  },
+  {
+    "year": 2024,
+    "exam": "수능",
+    "subject": "확률과 통계",
+    "question_number": 461,
+    "question": "두 개의 동전을 동시에 던질 때, 적어도 한 개가 앞면일 확률은?",
+    "options": null,
+    "answer": "3/4",
+    "explanation": "전체 경우의 수 4, 적어도 앞면 하나: 3가지 → 3/4"
+  },
+  {
+    "year": 2020,
+    "exam": "6월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 462,
+    "question": "5개의 공에서 2개를 꺼내는 조합의 수는?",
+    "options": null,
+    "answer": "10",
+    "explanation": "C(5,2)=10"
+  },
+  {
+    "year": 2020,
+    "exam": "6월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 463,
+    "question": "A, B 두 사건이 있을 때, P(A)=0.4, P(B)=0.5, P(A∩B)=0.2일 때, P(A∪B)는?",
+    "options": null,
+    "answer": "0.7",
+    "explanation": "P(A∪B)=P(A)+P(B)-P(A∩B)=0.4+0.5-0.2=0.7"
+  },
+  {
+    "year": 2020,
+    "exam": "수능",
+    "subject": "확률과 통계",
+    "question_number": 464,
+    "question": "두 개의 동전을 동시에 던질 때, 적어도 한 개가 앞면일 확률은?",
+    "options": null,
+    "answer": "3/4",
+    "explanation": "전체 경우의 수 4, 적어도 앞면 하나: 3가지 → 3/4"
+  },
+  {
+    "year": 2016,
+    "exam": "6월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 465,
+    "question": "두 개의 동전을 동시에 던질 때, 적어도 한 개가 앞면일 확률은?",
+    "options": null,
+    "answer": "3/4",
+    "explanation": "전체 경우의 수 4, 적어도 앞면 하나: 3가지 → 3/4"
+  },
+  {
+    "year": 2013,
+    "exam": "6월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 466,
+    "question": "어떤 반의 학생 10명 중 3명을 무작위로 뽑을 때, 특정 학생 A가 포함될 확률은?",
+    "options": null,
+    "answer": "3/10",
+    "explanation": "A가 포함된 조합: C(9,2)=36, 전체 조합: C(10,3)=120 → 36/120=3/10"
+  },
+  {
+    "year": 2013,
+    "exam": "6월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 467,
+    "question": "동전을 5번 던질 때, 앞면이 3번 나올 확률은?",
+    "options": null,
+    "answer": "10/32",
+    "explanation": "B(5,0.5)에서 P(X=3)=C(5,3)*(1/2)^5=10/32"
+  },
+  {
+    "year": 2010,
+    "exam": "수능",
+    "subject": "확률과 통계",
+    "question_number": 468,
+    "question": "A, B 두 사건이 있을 때, P(A)=0.4, P(B)=0.5, P(A∩B)=0.2일 때, P(A∪B)는?",
+    "options": null,
+    "answer": "0.7",
+    "explanation": "P(A∪B)=P(A)+P(B)-P(A∩B)=0.4+0.5-0.2=0.7"
+  },
+  {
+    "year": 2012,
+    "exam": "수능",
+    "subject": "확률과 통계",
+    "question_number": 469,
+    "question": "5개의 공에서 2개를 꺼내는 조합의 수는?",
+    "options": null,
+    "answer": "10",
+    "explanation": "C(5,2)=10"
+  },
+  {
+    "year": 2020,
+    "exam": "6월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 470,
+    "question": "5개의 공에서 2개를 꺼내는 조합의 수는?",
+    "options": null,
+    "answer": "10",
+    "explanation": "C(5,2)=10"
+  },
+  {
+    "year": 2011,
+    "exam": "9월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 471,
+    "question": "A, B 두 사건이 있을 때, P(A)=0.4, P(B)=0.5, P(A∩B)=0.2일 때, P(A∪B)는?",
+    "options": null,
+    "answer": "0.7",
+    "explanation": "P(A∪B)=P(A)+P(B)-P(A∩B)=0.4+0.5-0.2=0.7"
+  },
+  {
+    "year": 2020,
+    "exam": "수능",
+    "subject": "확률과 통계",
+    "question_number": 472,
+    "question": "5개의 공에서 2개를 꺼내는 조합의 수는?",
+    "options": null,
+    "answer": "10",
+    "explanation": "C(5,2)=10"
+  },
+  {
+    "year": 2025,
+    "exam": "수능",
+    "subject": "확률과 통계",
+    "question_number": 473,
+    "question": "두 개의 동전을 동시에 던질 때, 적어도 한 개가 앞면일 확률은?",
+    "options": null,
+    "answer": "3/4",
+    "explanation": "전체 경우의 수 4, 적어도 앞면 하나: 3가지 → 3/4"
+  },
+  {
+    "year": 2019,
+    "exam": "9월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 474,
+    "question": "5개의 공에서 2개를 꺼내는 조합의 수는?",
+    "options": null,
+    "answer": "10",
+    "explanation": "C(5,2)=10"
+  },
+  {
+    "year": 2016,
+    "exam": "수능",
+    "subject": "확률과 통계",
+    "question_number": 475,
+    "question": "확률변수 X가 1,2,3 값을 가질 확률이 각각 0.2, 0.5, 0.3일 때, 기댓값 E(X)는?",
+    "options": null,
+    "answer": "2.1",
+    "explanation": "E(X)=1×0.2 + 2×0.5 + 3×0.3 = 2.1"
+  },
+  {
+    "year": 2023,
+    "exam": "9월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 476,
+    "question": "두 개의 동전을 동시에 던질 때, 적어도 한 개가 앞면일 확률은?",
+    "options": null,
+    "answer": "3/4",
+    "explanation": "전체 경우의 수 4, 적어도 앞면 하나: 3가지 → 3/4"
+  },
+  {
+    "year": 2018,
+    "exam": "수능",
+    "subject": "확률과 통계",
+    "question_number": 477,
+    "question": "서로 다른 숫자 카드 5장 중 3장을 뽑아 나열할 때, '2'가 반드시 포함되도록 하는 경우의 수는?",
+    "options": null,
+    "answer": "36",
+    "explanation": "'2'를 포함한 2장 선택: C(4,2)=6, 나열: 3!=6 → 총 6×6=36가지"
+  },
+  {
+    "year": 2015,
+    "exam": "9월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 478,
+    "question": "동전을 5번 던질 때, 앞면이 3번 나올 확률은?",
+    "options": null,
+    "answer": "10/32",
+    "explanation": "B(5,0.5)에서 P(X=3)=C(5,3)*(1/2)^5=10/32"
+  },
+  {
+    "year": 2010,
+    "exam": "6월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 479,
+    "question": "A, B 두 사건이 있을 때, P(A)=0.4, P(B)=0.5, P(A∩B)=0.2일 때, P(A∪B)는?",
+    "options": null,
+    "answer": "0.7",
+    "explanation": "P(A∪B)=P(A)+P(B)-P(A∩B)=0.4+0.5-0.2=0.7"
+  },
+  {
+    "year": 2020,
+    "exam": "수능",
+    "subject": "확률과 통계",
+    "question_number": 480,
+    "question": "동전을 5번 던질 때, 앞면이 3번 나올 확률은?",
+    "options": null,
+    "answer": "10/32",
+    "explanation": "B(5,0.5)에서 P(X=3)=C(5,3)*(1/2)^5=10/32"
+  },
+  {
+    "year": 2019,
+    "exam": "9월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 481,
+    "question": "동전을 5번 던질 때, 앞면이 3번 나올 확률은?",
+    "options": null,
+    "answer": "10/32",
+    "explanation": "B(5,0.5)에서 P(X=3)=C(5,3)*(1/2)^5=10/32"
+  },
+  {
+    "year": 2018,
+    "exam": "9월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 482,
+    "question": "확률변수 X가 1,2,3 값을 가질 확률이 각각 0.2, 0.5, 0.3일 때, 기댓값 E(X)는?",
+    "options": null,
+    "answer": "2.1",
+    "explanation": "E(X)=1×0.2 + 2×0.5 + 3×0.3 = 2.1"
+  },
+  {
+    "year": 2016,
+    "exam": "수능",
+    "subject": "확률과 통계",
+    "question_number": 483,
+    "question": "주사위를 두 번 던질 때, 합이 7이 될 확률은?",
+    "options": null,
+    "answer": "1/6",
+    "explanation": "(1,6),(2,5)... 총 6가지 / 36 → 6/36 = 1/6"
+  },
+  {
+    "year": 2017,
+    "exam": "9월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 484,
+    "question": "두 개의 동전을 동시에 던질 때, 적어도 한 개가 앞면일 확률은?",
+    "options": null,
+    "answer": "3/4",
+    "explanation": "전체 경우의 수 4, 적어도 앞면 하나: 3가지 → 3/4"
+  },
+  {
+    "year": 2020,
+    "exam": "6월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 485,
+    "question": "서로 다른 숫자 카드 5장 중 3장을 뽑아 나열할 때, '2'가 반드시 포함되도록 하는 경우의 수는?",
+    "options": null,
+    "answer": "36",
+    "explanation": "'2'를 포함한 2장 선택: C(4,2)=6, 나열: 3!=6 → 총 6×6=36가지"
+  },
+  {
+    "year": 2011,
+    "exam": "6월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 486,
+    "question": "어떤 반의 학생 10명 중 3명을 무작위로 뽑을 때, 특정 학생 A가 포함될 확률은?",
+    "options": null,
+    "answer": "3/10",
+    "explanation": "A가 포함된 조합: C(9,2)=36, 전체 조합: C(10,3)=120 → 36/120=3/10"
+  },
+  {
+    "year": 2025,
+    "exam": "6월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 487,
+    "question": "두 개의 동전을 동시에 던질 때, 적어도 한 개가 앞면일 확률은?",
+    "options": null,
+    "answer": "3/4",
+    "explanation": "전체 경우의 수 4, 적어도 앞면 하나: 3가지 → 3/4"
+  },
+  {
+    "year": 2020,
+    "exam": "6월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 488,
+    "question": "어떤 반의 학생 10명 중 3명을 무작위로 뽑을 때, 특정 학생 A가 포함될 확률은?",
+    "options": null,
+    "answer": "3/10",
+    "explanation": "A가 포함된 조합: C(9,2)=36, 전체 조합: C(10,3)=120 → 36/120=3/10"
+  },
+  {
+    "year": 2020,
+    "exam": "수능",
+    "subject": "확률과 통계",
+    "question_number": 489,
+    "question": "확률변수 X가 1,2,3 값을 가질 확률이 각각 0.2, 0.5, 0.3일 때, 기댓값 E(X)는?",
+    "options": null,
+    "answer": "2.1",
+    "explanation": "E(X)=1×0.2 + 2×0.5 + 3×0.3 = 2.1"
+  },
+  {
+    "year": 2024,
+    "exam": "6월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 490,
+    "question": "확률변수 X가 1,2,3 값을 가질 확률이 각각 0.2, 0.5, 0.3일 때, 기댓값 E(X)는?",
+    "options": null,
+    "answer": "2.1",
+    "explanation": "E(X)=1×0.2 + 2×0.5 + 3×0.3 = 2.1"
+  },
+  {
+    "year": 2017,
+    "exam": "6월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 491,
+    "question": "서로 다른 숫자 카드 5장 중 3장을 뽑아 나열할 때, '2'가 반드시 포함되도록 하는 경우의 수는?",
+    "options": null,
+    "answer": "36",
+    "explanation": "'2'를 포함한 2장 선택: C(4,2)=6, 나열: 3!=6 → 총 6×6=36가지"
+  },
+  {
+    "year": 2025,
+    "exam": "수능",
+    "subject": "확률과 통계",
+    "question_number": 492,
+    "question": "서로 다른 숫자 카드 5장 중 3장을 뽑아 나열할 때, '2'가 반드시 포함되도록 하는 경우의 수는?",
+    "options": null,
+    "answer": "36",
+    "explanation": "'2'를 포함한 2장 선택: C(4,2)=6, 나열: 3!=6 → 총 6×6=36가지"
+  },
+  {
+    "year": 2018,
+    "exam": "6월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 493,
+    "question": "A, B 두 사건이 있을 때, P(A)=0.4, P(B)=0.5, P(A∩B)=0.2일 때, P(A∪B)는?",
+    "options": null,
+    "answer": "0.7",
+    "explanation": "P(A∪B)=P(A)+P(B)-P(A∩B)=0.4+0.5-0.2=0.7"
+  },
+  {
+    "year": 2023,
+    "exam": "수능",
+    "subject": "확률과 통계",
+    "question_number": 494,
+    "question": "A, B 두 사건이 있을 때, P(A)=0.4, P(B)=0.5, P(A∩B)=0.2일 때, P(A∪B)는?",
+    "options": null,
+    "answer": "0.7",
+    "explanation": "P(A∪B)=P(A)+P(B)-P(A∩B)=0.4+0.5-0.2=0.7"
+  },
+  {
+    "year": 2010,
+    "exam": "수능",
+    "subject": "확률과 통계",
+    "question_number": 495,
+    "question": "두 개의 동전을 동시에 던질 때, 적어도 한 개가 앞면일 확률은?",
+    "options": null,
+    "answer": "3/4",
+    "explanation": "전체 경우의 수 4, 적어도 앞면 하나: 3가지 → 3/4"
+  },
+  {
+    "year": 2012,
+    "exam": "수능",
+    "subject": "확률과 통계",
+    "question_number": 496,
+    "question": "주사위를 두 번 던질 때, 합이 7이 될 확률은?",
+    "options": null,
+    "answer": "1/6",
+    "explanation": "(1,6),(2,5)... 총 6가지 / 36 → 6/36 = 1/6"
+  },
+  {
+    "year": 2013,
+    "exam": "9월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 497,
+    "question": "주사위를 두 번 던질 때, 합이 7이 될 확률은?",
+    "options": null,
+    "answer": "1/6",
+    "explanation": "(1,6),(2,5)... 총 6가지 / 36 → 6/36 = 1/6"
+  },
+  {
+    "year": 2020,
+    "exam": "9월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 498,
+    "question": "확률변수 X가 1,2,3 값을 가질 확률이 각각 0.2, 0.5, 0.3일 때, 기댓값 E(X)는?",
+    "options": null,
+    "answer": "2.1",
+    "explanation": "E(X)=1×0.2 + 2×0.5 + 3×0.3 = 2.1"
+  },
+  {
+    "year": 2022,
+    "exam": "수능",
+    "subject": "확률과 통계",
+    "question_number": 499,
+    "question": "5개의 공에서 2개를 꺼내는 조합의 수는?",
+    "options": null,
+    "answer": "10",
+    "explanation": "C(5,2)=10"
+  },
+  {
+    "year": 2019,
+    "exam": "9월 모의고사",
+    "subject": "확률과 통계",
+    "question_number": 500,
+    "question": "A, B 두 사건이 있을 때, P(A)=0.4, P(B)=0.5, P(A∩B)=0.2일 때, P(A∪B)는?",
+    "options": null,
+    "answer": "0.7",
+    "explanation": "P(A∪B)=P(A)+P(B)-P(A∩B)=0.4+0.5-0.2=0.7"
+  }
+]
